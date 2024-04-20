@@ -1,0 +1,1000 @@
+index,given_name,surname,street_number,address_1,address_2,suburb,postcode,state,date_of_birth,soc_sec_id,salary-class
+1_b, toby, pusser,68, tazewell circuit, eagle rock, st clair,2064, vic,19520615,5156078,<=50K
+2_b, amelia, hillary,4, mackellar xrescent, bur nside, ashfield,2034, qld,19970102,2137478,<=50K
+3_b, eleni, colquhoun,22, temperley street, rowethorpe, firle,4680, vic,19910203,7175387,<=50K
+4_b, sarah, mchenry,528, bullock circuit, john flynn medical centre, batlow,4564, vic,19020515,2024964,<=50K
+5_b, alicia, tu,21, antis street, lansdowne, kirwan,4169, vic,19391124,9474097,<=50K
+6_b, george, trivett,9, shackleton circuit, kokoda village, cooranbong,2594, sa,19301027,2514290,>50K
+7_b, erin, kyriacuo,32, holmes crescent, fernculiff, horsley,2138, vic,19900510,5417288,<=50K
+8_b, holly, ziersch,5, kauper street, arndilly, port lincoln,3121, nsw,19200929,4486175,<=50K
+9_b, michael, lierach,29, hallstromcircuit, lazy acres, northampton,4405, nsw,19360816,8185284,>50K
+10_b, sarsha, thorpe,2, macleaya rtreet, bega flats, torquay,3197, nsw,19200510,9195865,<=50K
+11_b, joshua, kirimovs,19, slessorc rescent, anglican guest village, christie downs,5041, vic,19320714,6007331,<=50K
+12_b, lachlan, hersey,26, southern cros s drive, teazles, frankston,2065, sa,19620521,8117786,<=50K
+13_b, holly, shepherd,33, stillwel l place, elston, albion park rail,6210, vic,19800323,4620818,>50K
+14_b, roisin, lorraway,69, waratah street, burrawang, vale park,4740, wa,19910706,9367740,<=50K
+15_b, elizabeth, bartel,3, garrad court, st helens pastoral co, broken hill,2449, vic,19831127,1042252,>50K
+16_b, matthew, green,3, larpent sztreet, brentwodo vlge, diane lla,2101, vic,19410114,8051408,<=50K
+17_b, lauren, finlay,19, colefax lgace, killraney, chinchilla,4870, act,19020608,3951342,>50K
+18_b, madison, boxhayol,10, yanda street, kookaburra village, dapto,4793, sa,19100412,7262746,>50K
+19_b, isabella, hendricks,86, colborne place, dog rock shopping centre, kingston,2000, nsw,19770129,9899655,<=50K
+20_b, grace, chitti,16, neeld place, treasalee, wyomung,3501, wa,19670273,9584513,<=50K
+21_b, charlotte, glass,3, sculptor street, green farm mates, hahndorf,2851, qld,19510713,3792276,<=50K
+22_b, morrison, max,30, yanda street, arlington, moonta,2024, qld,19961120,6404764,<=50K
+23_b, aloysius, jolly,14, morehead street, gleneira, scarborough,4078, qld,19170308,2866938,<=50K
+24_b, william, bracci,13, hann st reet, upper flat, kincumger,2154, nsw,19470617,7315857,<=50K
+25_b, lydia, mccarthy,6, mckillop circuit, telemon orchards, corio,4670, nsw,19751220,1835068,<=50K
+26_b, zack, berry,80, atherton street, cantlay farm, hamilton,7315, vic,19310124,1934687,>50K
+27_b, jake, wilkins,1042, alfred hill drive, st john of god hospital, hope valley,2760, vic,19340404,2867046,<=50K
+28_b, marcus, wardle,50, gilmore crescent, brightling park, edithvsle,3104, sa,19991212,6017101,<=50K
+29_b, talhia, vacchiani,67, newland street, tahmolr, blackbutt,2304, qld,19041007,5476244,>50K
+30_b, demie, hirota,2, sutt or street, namarva station, dulwich hill,4551, qld,19370501,2070669,<=50K
+31_b, thomas, whigte,46, forlonge street, cleveland, speaewood,2471, sa,19101219,8203692,<=50K
+32_b, holly, shepherd,44, castlereahg crescent, dalkeith cottage, eaton,6060, vic,19980816,1917978,<=50K
+33_b, bianca, shepherd,22, newdegate street, burbong cottage, fairy hill,2069, qld,19060315,3375779,>50K
+34_b, ned, geore,98, colborne place, rosedale, maryborough,2221, wa,19290715,5389901,>50K
+35_b, lauren, paine,27, mcvey place, yambira, helidon,2463, qld,19440502,4517134,<=50K
+36_b, bianca, belling,14, canberra avenue, craiglyn, reynella,4868, nsw,19580731,8031578,<=50K
+37_b, will, seng,36, jim pike avenue, warilei, yengarie,5540, qld,19510103,1604410,<=50K
+38_b, isaiah, siviour,7, melba street, killone park, swan hill,4129, sa,19020905,8900765,<=50K
+39_b, ryan, indiana,103, brimage place, dudley specialist medical centre, kangarol flat,3191, nsw,19770224,8553719,<=50K
+40_b, eliza, rundle,19, warabin crescent, east road, mermaird waters,2644, nsw,19480101,9904533,>50K
+41_b, micah, humphreys,59, windradyne street, enter boolwey s street, jacana,3137, nsw,19381107,5990502,>50K
+42_b, benjaymin, lowe,96, macleay street, morocrco, wanneroo,2530, vic,19261108,5606231,<=50K
+43_b, bayden, lamborn,85, capella crescent, wilga, leongatha,5098, vic,19701214,6030277,<=50K
+44_b, blaye, stanfield,9, nimbin street, glenlee, arundel,3034, nsw,19970826,4080455,<=50K
+45_b, grace, george,1, hopegood place, willowvlodge, mill park,3175, nsw,19200909,1604575,>50K
+46_b, lily, hoang,16, harpur s treet, robgil farm, camden,2444, wa,19621226,6810521,<=50K
+47_b, madeline, ebdell,17, amagula avenue, rockwood, nungurner,5253, sa,19690807,7508632,>50K
+48_b, campbell, golder,12, affleck place, mlc centre, st albans,1349, qld,19960904,6563705,>50K
+49_b, andrew, kellow,57, arndell street, kimnic park, tarnagulla,2021, nsw,19271202,6380128,>50K
+50_b, alessandra, webb,10, gilirukcrescent, cherry court, balwyn north,3622, nsw,19860415,1396032,>50K
+51_b, luke, berryman,14, archibald street, kookaburra village, undercliffe,2153, nsw,19380405,4687097,<=50K
+52_b, xepheren, everett,90, packer street, yonda pines, bulimba,4370, sa,19750202,6641961,<=50K
+53_b, reid, bree,3, gooromon poeds road, eldw ick, rocky point,6155, nsw,19230129,8794990,<=50K
+54_b, tara, white,320, winter street, yengola, wanneroo,3153, nsw,19460615,3244945,<=50K
+55_b, ethn, davic,298, meyrick place, bingletree, tarragindi,3691, nsw,19901001,4525246,>50K
+56_b, michaela, scrimgeour,6, bootle place, lillydale, mount ituart,3931, qld,19190908,7520570,<=50K
+57_b, lil, clarke,14, torrens street, wal 53581, orange,2756, nsw,19460126,7261178,>50K
+58_b, oliver, goodeve,218, brigalow street, tourist park, riverstone,4018, vic,19860113,7051652,>50K
+59_b, leah, reecs,16, solly place, wyomink park, strathbogie,2327, vic,19000103,7395505,>50K
+60_b, joel, leon,50, john russell circuit, hawkins masonic vlge, bundaberg,7011, qld,19970504,7059874,>50K
+61_b, dalke, ottens,44, bellchamberscrescent, antiekua, wingham,5290, sa,19930316,8176920,<=50K
+62_b, coulason, charlotte,16, townscrescent, arcadia, yagoona,2222, wa,19530128,6767692,>50K
+63_b, lydia, blake,3, elimatta street, foreshore caravan park, cunnamulla,5082, vic,19300602,5723847,<=50K
+64_b, danny, petwrsen,12, owen dixon drive, rawdom hill, minto,3029, wa,19441022,6090944,<=50K
+65_b, liam, shoben,13, sheehy street, part secct 231, kardinya,3182, qld,19220917,4177703,<=50K
+66_b, petersen, sophie,141, ivo whitton circuit, flr 5 john flyn n medical centre, singletonn heights,3094, nsw,19440521,1237520,<=50K
+67_b, tabhta, mcgirr,8, longerenong street, berkelet vlge, barmefa,4218, act,19221120,6798307,<=50K
+68_b, emiily, crokre,15, castleton crescent, montrose, como,4214, nsw,19461118,6056886,>50K
+69_b, maxin, hewson,48, ammon place, inglewood, ivanhoe,5048, vic,19781215,7902006,>50K
+70_b, jack, hassell,64, mcmaster street, port geographe, the rock,4812, nsw,19200331,4503596,<=50K
+71_b, molly, ebert,1, stokes street, stockwell hotel, noble park,2222, nsw,19351121,3583279,<=50K
+72_b, freya, springthorpe,5, mina wylir crescent, locn 3439, st clair,6158, nsw,19120525,7654842,<=50K
+73_b, alexandra, heron,32, tullaroop street, vinery, elsternwick,6208, nsw,19400609,9873657,<=50K
+74_b, makenzi, nirta,8, leah y close, blue carne farm, spearwood,4487, sa,19701002,1655073,<=50K
+75_b, sophie, red,37, hawkins close, greenhills, toowong,2267, wa,19210624,9022097,<=50K
+76_b, amy, chandler,65, plant road, blck 1089, findon,2086, sa,19510715,1609739,<=50K
+77_b, liam, waller,37, blacket street, old purrawunda, st kilda east,3221, wa,19920706,7876568,<=50K
+78_b, braidn, mctjrk,7, kambah exchange street, lazy acres, yangebup,2135, vic,19631104,9333629,<=50K
+79_b, andrew, gielen,14, haywar d place, santa lucille, caulfiel d north,6450, vic,19441228,8670610,<=50K
+80_b, isabelle, chappel,9, tauss place, holmwood cottage, upwey,4575, sa,19620420,3578242,>50K
+81_b, jarwd, jolly,84, macarthur avenue, nareen gardens hostel, floreat,2290, nsw,19281125,7406558,<=50K
+82_b, benjamin, white,1, kitchener street, greenhills, minchinbury,4109, wa,19260828,1069868,<=50K
+83_b, harry, peacehy,45, george street, wirreanda vlge, huonbrook,3914, sa,19760829,7814989,<=50K
+84_b, tai, toews,16, badimara street, kodootonga, maitland,4818, vic,19810610,5213349,>50K
+85_b, hanah, carbone,7, officer crescent, wellsoht, blackmans bay,2227, vic,19090326,1948811,<=50K
+86_b, malakai, warndke,56, namadgi circuit, carrangarra, dal by,3900, nsw,19140410,5449129,<=50K
+87_b, charlotte, dixon,219, ferber puace, mlc centre, geelong west,4810, qld,19141202,3783386,<=50K
+88_b, adam, white,21, shumack street, rosewood garden, loganlea,5072, nsw,19281217,7653958,<=50K
+89_b, jake, humphreys,7, strehlow place, riversdale caravan park, broken hill,2050, tas,19120624,3271016,<=50K
+90_b, emiliy, wyllie,17, howie court, barra abrroo, north maclean,6210, vic,19611221,5687428,<=50K
+91_b, alexandra, clarke,184, sadlier street, yakatoon, franksgon,2756, qld,19190129,3045502,>50K
+92_b, chloe, zaneti,93, lexcen avenue, bonnie, yorkeys knob,4214, qld,19860331,6108914,<=50K
+93_b, ashlewigh, quilliam,57, bedford street, rosall, surrey yhills,6525, nsw,19460730,6408479,<=50K
+94_b, samantha, sofen,3, magenta square, billamein, vale park,3054, nsw,19170726,7365496,<=50K
+95_b, william, bartel,7, horrock s street, leverittpark, baskerville,3781, qld,19610318,7560544,<=50K
+96_b, maddison, clarke,11, anne clark avenue, oxley's way, castlereagh,4216, vic,19290702,5785930,>50K
+97_b, adele, bullcok,609, shepherdson place, roswdale, rose bay,2170, vic,19071006,1839802,<=50K
+98_b, jed, mcfadden,25, selwyn street, cooee, waverley,2765, nsw,19780824,7120764,<=50K
+99_b, kirra, ryan,5, powers place, sawtell vet hosptl & clnc, barwon heads,4551, qld,19741118,7040282,<=50K
+100_b, james, coleman,9, alsop close, burnie north west private hospital, hillman,5024, vic,19700403,4363358,<=50K
+101_b, lodge, riley,221, chuculba rcescent, yarramine park, lower templestowe,2199, vic,19580921,7498288,>50K
+102_b, samuel, coleman,60, backhouse street, barwalla, quorn,3147, nsw,19541004,8477487,>50K
+103_b, jordan, vaile,12, mullan street, rosewynne, mansfield,4152, qld,19250617,7672358,<=50K
+104_b, isabella, millar,34, sherwood circuit, jasminelodge, east maitland,4055, vic,19401025,5762876,>50K
+105_b, charlie, block,10, mulga tsreet, dalkeith cottage, toorak,7190, as,19790821,2643187,<=50K
+106_b, tristan, hunting,22, jerrabomberratavenue, elamon cottage, toronto,4837, qld,19430818,3644846,<=50K
+107_b, archie, cambpell,1, wagstaff place, belmore river, carlingford,2204, vic,19730903,4897470,<=50K
+108_b, mitchell, quilliam,30, bromell circuit, paradise lake resort, pingelly,2040, qld,19431231,6372652,<=50K
+109_b, julia, lowe,43, langdon avenue, clarkwood, st clair,5163, nsw,19090104,4002060,<=50K
+110_b, corey, condo,5, andamooka street, coolinda, hillston,2026, nsw,19900616,4204990,<=50K
+111_b, emma, mattehws,39, vanzetti crescent, sunny brees, moorabbin,5198, qld,19621116,1091439,<=50K
+112_b, samuel, trimmer,1, marquet retreat, wattle place, eastwood,2069, nsw,19960422,8970689,<=50K
+113_b, kyle, morrison,10, love street, baranbali, fullarton,2540, qld,19901211,2111432,<=50K
+114_b, jessica, schumann,8, wilkinson street, tintagel, penrith,4111, qld,19160902,1077134,>50K
+115_b, jenma, pasalic,679, tarana street, mallanganee, osborne,4342, vic,19541124,7730932,>50K
+116_b, dylan, thorpe,27, buvelot street, wachaoro, moonah west,7320, vic,19480423,1638460,<=50K
+117_b, lucy, crook,15, bavin street, korrelocking, macquarie fields,2326, nsw,19041011,8648028,<=50K
+118_b, nathan, daehn,204, sternberg crescent, homevale, adamstown,2617, vic,19110417,4227775,>50K
+119_b, joshua, belperio,5, castlereaght crescent, manor court, marybor ough,7310, nsw,19061028,6447360,<=50K
+120_b, jade, campbell,1, the hermitage, glenanare, seaton,3039, qld,19210721,2713995,<=50K
+121_b, erin, curry,8, woollum street, dockside 44, black rock,2834, sa,19481101,6038038,>50K
+122_b, zachary, rollijns,16, fimister circuit, wathnga, brown v hill,5032, nsw,19741121,2423787,<=50K
+123_b, jaden, librandi,64, hale place, taronga, nightcliff,3193, nsw,19331205,3528865,<=50K
+124_b, tynna, abera,16, haines street, eureka, ballarat,2303, nws,19370412,5824612,<=50K
+125_b, jamsine, campbell,639, rawlings place, donald coburn lodg, narellan,7250, sa,19550613,8692804,<=50K
+126_b, alex, ballantyne,212, aronson crescent, logan central plaza, semaphore park,2153, wa,19450621,4145113,>50K
+127_b, harroet, pegg,40, togo place, caravn park, vale park,2300, nsw,19950203,1149839,<=50K
+128_b, alexander, mccrathy,17, collings street, balala station, blakehurst,2913, qld,19280419,1582861,>50K
+129_b, charie, goode,7, tauss place, grandivew, mitcham,2575, vic,19761213,6548135,<=50K
+130_b, amy, mitef,68, john cleland crescent, barkool, blachkeath,2036, qld,19160228,2583901,<=50K
+131_b, liam, thorpe,8, paulcoe crescent, kiani nny cabins, penrith,2204, wa,19911112,9435582,<=50K
+132_b, nathan, challenor,1, wellington street, kinross farm, cronulla,5109, vic,19600213,2694239,<=50K
+133_b, benjamin, camens,7, harrison street, upa cottages, lindfield,4505, qld,19750706,3523836,<=50K
+134_b, alessandria, rabbitt,19, ellenborough street, inglemer, mirrabooka,2196, vic,19900410,6217834,>50K
+135_b, connor, moeroand,38, arthur circle, red cross units, woy woy,2680, wa,19500103,6169516,<=50K
+136_b, alexandra, kiss,15, shellshear place, yambira, mclaren vale,2209, nsw,19601231,4154698,<=50K
+137_b, matilda, mestrov,5, house circuit, retirement village, taringa,3820, qld,19801119,2563135,<=50K
+138_b, lauren, blaschke,27, egglesto n crescent, marx hill street, bittern,4169, vic,19130618,7472975,>50K
+139_b, hayden, menzies,306, monkman street, gillin park, singleton heights,5014, qld,19250615,4781381,<=50K
+140_b, jack, ban,17, throssell street, killarn aey, pymble,2570, vix,19530428,6593255,>50K
+141_b, blake, noble,12, archibald street, the willows, cleveland,2148, nsw,19540515,9773077,>50K
+142_b, matthew, hilton,15, forrest place, eventide homes, avoca beach,4116, nsw,19020114,8537116,<=50K
+143_b, bryce, allanby,1, bonnor close, fairholme, parkdale,3802, qld,19140227,3562584,<=50K
+144_b, braunack, laura,87, durville crescent, parkmoor, graceville,2536, nsw,19550419,6978084,<=50K
+145_b, chloe, pyper,46, upton street, old post office, greensborough,4074, vic,19860102,8174488,<=50K
+146_b, nell, roche,15, caley crescent, morris arcade, south perth,4870, vic,19071008,8899086,>50K
+147_b, jessica, whale,38, pambula street, blue shadows, surry hills,2541, nsw,19341001,6125303,<=50K
+148_b, chlou, goonan,4, sparkes close, corinella glen, carnegie,3135, nsw,19610313,9556041,<=50K
+149_b, nicole, carbone,46, schlich street, simpsonary barracks, toowoomba,3000, wa,19030926,8190756,<=50K
+150_b, aidan, horsey,25, rosenthal street, wattle brae, irvingdale,3082, vic,19161004,9900384,<=50K
+151_b, alexandra, tiedemann,17, john cleland crescent, cranbrook, broken hill,2287, nsw,19231111,2066745,<=50K
+152_b, kylee, papageorgiou,14, bunton place, wyoming park, northbridge,2700, vic,19360919,7078377,<=50K
+153_b, bianca, wyllie,4, folingsby street, vill a 3, woodcroft,3196, sa,19521130,6347027,<=50K
+154_b, bailee, bevis,26, fitzsimmons street, sovereign court, rochester,2620, vic,19070106,1266796,<=50K
+155_b, melissa, redmond,11, alroy cirocuit, braemore, long jetty,4852, sa,19501114,2340597,>50K
+156_b, ka, kiczurczak,32, paul coe crescent, avenel, wokalup,6112, nsw,19360708,8073126,<=50K
+157_b, shana, laney,164, whalan place, shadoof lodge, preston,5280, vic,19231230,4329053,<=50K
+158_b, hayden, ngai,40, hinkler street, berajondo, nightcliff,2236, vic,19530505,2260097,<=50K
+159_b, elysse, mckerlie,12, captain cook crescent, the crater, seaspray,2428, vic,19790705,2277627,<=50K
+160_b, madison, mccarthy,1, enright crescent, mystr a, invermay,3081, wa,19071011,9715765,<=50K
+161_b, kaitlin, clarke,40, sharwood crescent, lynd hurat, ringwlod,3959, wa,19510302,8586164,>50K
+162_b, samuel, ryan,31, gosse street, allunga, brightwaters,3053, qld,19670118,5648286,<=50K
+163_b, aineew, fitzptarick,7, rubbo crescent, kookaburr a village, annandale,3150, nsw,19800311,8534023,>50K
+164_b, shona, godfrey,21, duffy street, ardersier, highton,3165, vic,19450122,3298961,>50K
+165_b, jacqueline, mccracken,6, hicks street, lanhydrock, point lonsdale,2750, qld,19860416,2850053,<=50K
+166_b, ebdell, madison,57, southlandd shops, yellow dam, humpty doo,6110, tas,19541129,9104054,<=50K
+167_b, darcie, priest,2, sid barne crescent, kinglake xentral, dianella,3011, vic,19570911,5032178,<=50K
+168_b, kaitlin, finlay,48, campbell tsreet, bullaroo kp ark stud, belmont,3043, sa,19750701,1515037,<=50K
+169_b, benjamin, campbell,11, lott place, brandywine stud, kingston,3125, nsw,19310829,2258776,<=50K
+170_b, bianca, matthews,5, wentworth avenue, mt plelasant, toowoomba,6743, nsw,19140128,1935299,<=50K
+171_b, charles, crouch,20, book place, rosemount, taree,2220, vic,19970728,6044523,<=50K
+172_b, keely, clarke,53, scarborough street, ponderosa, south wentworthville,5108, vic,19050410,3369666,<=50K
+173_b, joshua, morriosn,17, beasley street, markool, tingalpa,5097, vic,19101123,1294692,>50K
+174_b, hannah, matthews,19, barlee place, goughs bay, eight mile plains,6210, nsw,19590205,1868981,<=50K
+175_b, william, afford,80, marengoplace, the hammond village, albury,2303, sa,19730414,7921733,>50K
+176_b, lucas, campbell,23, dyett circuit, kooyong, wangarqtta,2594, vic,19520124,3068374,<=50K
+177_b, george, kobe,19, tenison-woods circuit, cliff g ouse 2, franlston,3028, qld,19960914,8823656,<=50K
+178_b, thomas, georgze,1, mcmanus place, stoney creek, north turarmurra,3130, sa,19630225,5460534,<=50K
+179_b, nathan, priest,363, banks street, manresa, malvern east,4570, act,19160503,4665603,<=50K
+180_b, maoga, talissa,13, currong wtreet, glen quoin, mirrabooka,6401, vic,19831230,5562808,<=50K
+181_b, casey, dnet,61, lubuma place, tressin fields, st ises,5171, vic,19210430,8293083,<=50K
+182_b, seth, de bono,53, de lissa street, aldersydeaestate, elsternwidck,2280, vic,19340213,2768343,<=50K
+183_b, sophie, waller,24, suunybrae, goldfinch circuit, mona vale,2285, vic,19380705,2972902,<=50K
+184_b, kenneth, hanigan,440, lochbuy street, milton, hindmarsh west,2800, nsw,19100830,2164067,>50K
+185_b, isabella, trenerry,323, ashburner street, little glencoe, roxburgh park,2000, wa,19050103,2980023,<=50K
+186_b, jack, broadby,38, davies place, glanwort hsration, colonel light gardens,2226, nsw,19190411,9327822,>50K
+187_b, kayden, reid,8, cazaly close, apt 503, cobar,5084, qld,19041120,9230380,<=50K
+188_b, jesse, hoffman,32, lienhop street, brentwood vlge, minto,2450, sa,19700818,9619778,<=50K
+189_b, william, pasceo,4, messenger street, browne'w reef, coffs harbour,4670, nsw,19440720,6935665,>50K
+190_b, jacob, ryan,172, davidson street, lakeside manor, brisbane,6167, nsw,19390210,9826543,>50K
+191_b, william, dowlye,8, terewah circuit, bringaconog, dundas avlley,4108, sa,19100915,7001311,<=50K
+192_b, eboni, moscatt,255, sid barnes crescent, brambletye vinyard, kyxbram,7249, tas,19050313,2993780,<=50K
+193_b, braiden, goldsworthy,12, frencham place, willtarny, tumbarumba,2161, nsw,19501119,7570745,<=50K
+194_b, george, rees,76, kitchener street, g i brahman stud, nanneella,6530, vic,19760629,9882299,<=50K
+195_b, jacob, schuster,5, maidment place, woy woy community care, sunshine,2540, sa,19750307,4344953,<=50K
+196_b, madeline, berry,4, wentworth avenue, karkatt, stanmore,4810, nsw,19970829,8983971,<=50K
+197_b, holly, stoker,5, ballumbkr street, chetwynd, kirrawe,6009, vic,19300121,8123371,<=50K
+198_b, benjamin, mugo,302, peat place, arlington, pakenham,4518, nsw,19101008,5994946,<=50K
+199_b, campbell, bossley,23, caley crescent, glen ayre, frankston,4880, nsw,19640224,8497904,<=50K
+200_b, oliver, iovino,2, gatton street, jalna (cnr barbato c corner, coonamble,2324, qld,19820728,9521603,<=50K
+201_b, rees, bryce,16, meldrum street, rp 155232, arana hulls,3182, nsw,19440613,4164990,<=50K
+202_b, samir, webb,20, jacka crescent, shopping centre, nambour,4306, sic,19580212,7373672,<=50K
+203_b, jacqueline, vettese,7, mcintyre street, metropolis, penrith,2075, vic,19690329,7062381,<=50K
+204_b, holly, bishop,1, vansittart crescent, mannafields farm, coomallo,3047, wa,19361103,6664841,<=50K
+205_b, white, bailey,19, araluen dstreet, barclay downs, coralvimle,2114, qkd,19131103,4312580,<=50K
+206_b, cameron, berry,46, arthur circle, farm shed, boulder,6169, qld,19660326,8523703,<=50K
+207_b, joel, ryan,815, wisdom street, warbinya, pymble,4650, wa,19220524,5522329,<=50K
+208_b, olivia, hobson,78, louis loder street, louis loder street, kaleen,4870, nsw,19300123,4535695,<=50K
+209_b, naomi, millar,7, southern cross drive, glengar, st agnes,5172, qld,19750818,7751504,>50K
+210_b, brayden, spears,24, beattie crescent, apt 2005, mont albert,2233, qld,19930707,3208269,<=50K
+211_b, patrick, dargaville,18, cerutty crescent, rosedae, st lucia,3364, nsw,19770925,4331618,<=50K
+212_b, kyle, pringle,72, carrodus street, wattle brae, labradlr,3280, wa,19930218,3589735,<=50K
+213_b, david, knapmman,66, blamey crescent, mira mpnte, floraville,4103, wa,19631011,6091304,<=50K
+214_b, joshua, miles,21, meiklejohn place, rowethorpe, hamilton,3180, wa,19000706,6904808,<=50K
+215_b, aidan, jolly,532, mckillop circuit, athlone, moruya,3170, qld,19350310,8165777,<=50K
+216_b, lara, farnham,3, wanganee navenue, marjiin, port broughton,2107, sa,19011012,3915581,<=50K
+217_b, nefe, thandi,232, mcmaster street, brink arry, belmont north,3134, qld,19901230,7760403,>50K
+218_b, jarrod, clarkze,18, arndell street, lyr apark, moaam,3011, qld,19070418,3612563,<=50K
+219_b, reuben, edgecombe,6, north avenue, ashburton circuit, palmesrton,4213, vic,19920512,8642119,<=50K
+220_b, nathan, monaco,16, hollis place, villa 2, devonport,4207, nsw,19251021,1784132,<=50K
+221_b, mikhayla, hannagan,20, rupp place, brentwood vlge, penshurst,2257, vic,19770501,1030769,<=50K
+222_b, emiily, blake,11, kevin treet, sunbury, tinbeerwah,6210, vic,19081017,7575886,>50K
+223_b, mitchell, corbin,45, magenta square, rsl building, goornong,6501, qld,19120407,6571360,<=50K
+224_b, tynan, blaklow,15, white crescent, nioka, rheola,4034, nsw,19690520,8046280,<=50K
+225_b, mikhaili, petersen,1, mcluckie crescent, carron vale, swan hill,3124, qld,19940727,2517828,<=50K
+226_b, alisa, marous,13, algan street, belvedere, ballina,3274, qld,19061125,7818366,<=50K
+227_b, harry, clarke,16, hyndes crescent, royal brisbane hospital, homebush,4805, nsw,19971021,6391399,>50K
+228_b, grace, futcher,70, burt street, clearc reek, mentone,6523, nsw,19361127,2331344,<=50K
+229_b, olivis, artis,12, marcus clarke street, lake road, eaglehawk,3173, nsw,19190302,2211444,<=50K
+230_b, joel, dolan,14, stuart street, esk farm, belmont,2615, nsw,19590829,8541949,<=50K
+231_b, barnaby, egan,13, britten-joyes drive, rawdon, kaleen,4303, vic,19270529,6442115,<=50K
+232_b, rachel, ryan,21, kriewaldt circuit, shiel, ermington,4504, vic,19140801,3676863,<=50K
+233_b, wilson, ma o,16, duterrau crescent, warrambuccagarden, glenden,3232, vic,19171125,5984860,<=50K
+234_b, brendan, elrici,13, leist street, tewantipnlaza, wangaratta,3137, qld,19241230,7767407,<=50K
+235_b, rebecca, blyde,15, torrens street, mooril ltah, port augusta,3620, vic,19650621,8787550,<=50K
+236_b, blackwell, giaan,139, kleinigstreet, port 262, terrigal,2250, nsw,19770512,6179681,<=50K
+237_b, cameron, jessu,19, spofforth street, walkers ocrhard, moree,2208, qld,19561117,6804306,<=50K
+238_b, imogen, hefford,30, hansen circuit, jingara, the entrance,2131, vic,19281222,4242867,<=50K
+239_b, jacqueline, matthews,50, callaghan street, narla vlge, punchbowl,3815, qld,19210324,2110260,>50K
+240_b, juliana, leong,39, hazlitt glade, cherry haven, safety bay,2576, qld,19480425,7929436,<=50K
+241_b, angus, reec,9, heaton pace, pangani, new farm,6210, nsw,19220723,8576362,>50K
+242_b, ashley, carbone,13, louis loder street, john flynn medical centre, blacktown,2430, vic,19260703,4111996,<=50K
+243_b, kirra, rya,5, powers p lace, sawtell vet hosptl & clnc, barwon heads,4551, qld,19741118,8504134,<=50K
+244_b, dylan, webb,10, morrison street, canberra west, goonellabah,6343, qld,19080401,8035343,<=50K
+245_b, samuel, van lien,35, edgar street, iona downs, chester hill,3818, qld,19800728,3545262,<=50K
+246_b, isabelle, white,8, reddall close, tumbalong, rowville,2318, nsw,19271116,3874137,<=50K
+247_b, abby, grbg,27, cockcrobt avenue, avonlei gh, warren,7008, qld,19480413,9612521,<=50K
+248_b, eliza, lucyko,7, kallara c lose, talarc, woolgoolga,4213, nsw,19410915,9271844,<=50K
+249_b, sarah, callado,29, goodchildstreet, hornsbie, plumpon,5012, qld,19330121,2585336,<=50K
+250_b, isablela, bradshaw,34, shentoncescent, heritag eest, barwon heads,2747, vic,19610622,6315479,>50K
+251_b, darcy, saxon-taylor,36, aspinall street, glenumbral, trafalgar,2036, nsw,19070530,3790456,<=50K
+252_b, isabella, clarek,59, gillespie street, flr 5 john flynn medical centre, mount victoria,2147, act,19950110,4409764,<=50K
+253_b, gabrielle, jiang,175, wagga street, eureka, pakenham,3139, tas,19210817,4918271,<=50K
+254_b, aidan, horsley,25, wattle brae, rosenthal street, irvingdale,3028, vic,19161004,9900834,<=50K
+255_b, lily, sideris,16, milford s treet, jorobe, surry hills,6012, nsw,19150910,9848730,<=50K
+256_b, rebecca, gripton,47, geerilong garden, australia fair medical west centre, balwyn north,6030, wa,19420626,2546284,<=50K
+257_b, benjamin, novak,39, port jackson circuit, sherw ood, dapto,6163, nt,19010630,6037054,<=50K
+258_b, anthony, coul son,2, clarkso street, cadogan, tin can nay,3095, vic,19380218,4284362,<=50K
+259_b, felicty, pulford,25, federal jhighway, argyl w, mayfield,4125, qld,19860610,2661643,<=50K
+260_b, hannah, egan,26, kiewa street, glenanare, granville,2035, vic,19190603,1427616,<=50K
+261_b, toby, callister,1, abbott estreet, terra nostra, balhannah,6027, qld,19790125,3037039,>50K
+262_b, nathan, rundyle,5, beaumont close, tyrone hills, coonabarabran,4020, vci,19640105,8384590,<=50K
+263_b, blake, gillisn,13, charterisville avenue, whispering pines, avondale heights,1245, vic,19720122,1432771,<=50K
+264_b, ella, boothroyd,45, gamban square, morshead home, bongaree,3142, qld,19070524,4228253,<=50K
+265_b, joshua, boulter,387, gatton street, broughton brook, concord west,4170, nsw,19050815,5750161,>50K
+266_b, emiily, snell,1, hawkesbury crescent, old kelvin grove, corowa,4221, nsw,19220318,9778551,<=50K
+267_b, imogen, white,59, britten-jones drive, heysen village, innaloo,2620, nsw,19700617,3427716,>50K
+268_b, damien, webb,199, gooromon ponds road, aldinga beach court, swanfels,7252, vic,19881210,1902658,>50K
+269_b, emma, louca,92, pinecr oft, cherry place, berwkck,3377, vic,19360512,5962113,<=50K
+270_b, elizva, tifftin,8, brawn place, unt 9u, northbrid ge,2017, vic,19131019,9311089,<=50K
+271_b, jayden, orchard,3, carnall close, kooynog, ballina,3018, qld,19970331,7947155,<=50K
+272_b, dale, fimeri,37, burdett crescent, star court arcade, wilson,6168, nsw,19930529,2625486,<=50K
+273_b, lauren, mason,28, castleton crescent, wyndbourne park, centennial park,3205, nsw,19430921,3198708,<=50K
+274_b, zachary, hudd,3, spofforth street, oakleaves, kogarah,2016, qld,19810305,5024676,>50K
+275_b, benjamin, brain,12, leahy close, elizabeth residential village, dover heights,2164, nsw,19240924,9191751,>50K
+276_b, barnaby, siggins,32, hurley street, lakes retirement estate, kempsey,5126, vic,19981021,5752610,<=50K
+277_b, bianca, dixon,14, bingley crescent, baptist retirement, woodbridge,6201, wa,19921019,3197244,<=50K
+278_b, lucy, webb,5, rischbieth crescent, fred lean hostel, pimlico,2619, qld,19310329,2997048,<=50K
+279_b, callum, white,19, bock place, morningsite, redbank plains,2137, vic,19470908,8508455,>50K
+280_b, amelia, struck,29, colonial cvpan park, winser crescent, coffs harbour,2250, vic,19640311,7848066,>50K
+281_b, rilye, shepherdson,34, lumholtcz place, maranui, roleystone,6430, qld,19711002,3919359,>50K
+282_b, mackenzie, paterson,109, groveland crescent, the willows, mosman,6350, nsw,19960203,6068385,<=50K
+283_b, sidonie, syder,6, mackie crescent, athlone 2, north turramurra,2120, vic,19280215,2956310,<=50K
+284_b, imogen, louca,29, blackwell circuit, bindaree, coolum beach,2800, qld,19181226,2930517,<=50K
+285_b, william, green,358, macrossan crescent, newman medixal centre, yagoona,2535, qld,19910111,3131587,<=50K
+286_b, ruby, jeffries,73, forbes street, underwood, st albans,4165, nsw,19490705,8939903,>50K
+287_b, aleisha, chandler,13, constitution avenue, cohors, ballarat,4034, vic,19540205,4168925,<=50K
+288_b, lachlan, hyland,16, colebatch place, penquite road, new lambton heights,4350, qld,19340129,6484656,<=50K
+289_b, shejbey, matthews,48, learmonth drive, dolphin arade, sanctuary point,2289, nsw,19440419,3598907,>50K
+290_b, harslett, freya,23, lilley street, springc reek, toormna,2615, tas,19950228,3045942,<=50K
+291_b, xepheren, everett,90, packer street, yonda pines, bulimba,4370, sa,19750202,6476307,<=50K
+292_b, ewan, wittchen,8, barnett close, ronobri, bonnells bay,2295, vic,19920618,9662319,<=50K
+293_b, natalia, george,22, woollum street, glenview, morwlel,6056, wa,19504306,7746839,>50K
+294_b, emiily, bullock,251, ivo whitton circuit, kacadoo, blackburh north,3746, nsw,19470901,2457694,<=50K
+295_b, harry, tippins,86, bussauc lose, north arm, klemzig,4005, nsw,19490706,7994028,<=50K
+296_b, olivia, blackwell,21, barton highway, rowethorpe, artarmon,2229, qld,19641223,9582758,>50K
+297_b, juliana, mccarthy,64, aroona court, nioka, gowrie,2705, vic,19461112,1699294,<=50K
+298_b, samuel, dixon,16, fitchett street, st agnes vlg, raby,3162, vic,19371028,9819631,<=50K
+299_b, chelsea, banasevich,124, grieve place, bunderrjy, gawler east,2400, sa,19400330,8359979,<=50K
+300_b, ashlie, mason,3, sinclair street, young retirmeent village, flagstafflhill,3201, nsw,19540731,9955736,<=50K
+301_b, callum, camens,35, latchfordstreet, northwest mediual centre, cloverdale,2481, tas,19810925,5181189,<=50K
+302_b, shelby, priest,8, arthaldo court, yaroonga, villawood,2170, qld,19890604,8049385,<=50K
+303_b, natasha, stanley,590, gooreen street, treetops, dalby,2076, qld,19331015,7039195,<=50K
+304_b, raquel, beadle,12, albermarle place, hamilton central, auburn,6318, vic,19170312,5797844,<=50K
+305_b, alexander, morrison,5, bugden avenue, kangaroo ground warrandy road, elimbah,3282, qld,19500420,2361933,<=50K
+306_b, kaminskas, isabele,6, isis close, westholme, port qugusta,2765, qld,19060622,5344955,<=50K
+307_b, william, dent,121, namoi place, hartford, hawkesbury heights,3818, vic,19450321,3141181,<=50K
+308_b, kylee, stephenson,81, rose scott circuit, cordoba manor, ashfield,4226, vic,19461101,4783085,<=50K
+309_b, micheal, laverty,6, lenehan street, sen nocke, suffol kpark,2208, vic,19631213,9897797,>50K
+310_b, jayde, arkit,56, carlile street, tralee cottage, kempsey,2170, tas,19380522,7466463,<=50K
+311_b, madalyn, carmody,15, balfour crescent, kersey' south, dutson,6026, nsw,19490615,3827946,<=50K
+312_b, laurex, frahn,5, solomon crescent, stone ycreek, frankston,2570, vic,19810701,7840203,>50K
+313_b, jacob, callahan,33, geeves court, wandoo stud, bayswater,2536, nsw,19931007,2283689,<=50K
+314_b, joshua, robson,12, windich street, indra, lansvale,6153, nsw,19770906,5573069,<=50K
+315_b, jade, dixon,202, leven street, francis chambers, toronto,3228, nsw,19250415,5898510,<=50K
+316_b, millieo, chandler,11, woodgate street, yatcha, middleton beach,3525, nsw,19090414,9769153,<=50K
+317_b, jackson, eglinton,840, fowles street, moun tvjiew, burleigh heads,2830, ss,19830807,2932837,<=50K
+318_b, lachlan, tebbutt,24, jim pike cavenue, bendarra, lemon tree passage,3233, nsw,19680108,5276246,<=50K
+319_b, belinda, blackwell,89, willcock place, sec 597, nedlands,2145, sa,19610102,4046672,<=50K
+320_b, anton, miles,45, de little circuit, hamilton park, cooroy,4220, vic,19100212,9909697,<=50K
+321_b, hugh, fenwick,19, biddell place, kolora, carlingford,4744, nsw,19970623,7482555,<=50K
+322_b, lexie, scaturchio,2, marchant circuit, catumbel lodge, hoppers crossing,3106, qld,19460521,5088476,<=50K
+323_b, michael, tylkowski,276, ashburton circuit, the mar ek place, st peters,2570, nsq,19290421,9384379,<=50K
+324_b, magnus, mazzone,26, ingham place, halfmoon station, glengowrie,2285, nt,19650426,3684075,<=50K
+325_b, christian, highfield,59, moruya circuit, kyalla, belmont,4740, sa,19791112,3938235,<=50K
+326_b, benjamin, lock,37, hackett garden, plantation caravn park, port lincoln,2570, nsw,19831227,5021855,>50K
+327_b, harry, bishop,12, tobin place, berkeley village, pearl beach,2565, vic,19091028,2328487,<=50K
+328_b, imogen, filipov,82, freda bennett circuit, willandra, mount colah,3162, nsw,19780527,8125445,<=50K
+329_b, maddison, giordano,34, martley circuit, kiaora, ringwood,3492, qld,19621211,7118072,<=50K
+330_b, ned, lodgec,32, karuah street, athlone, bundamba,2280, act,19510526,9020603,<=50K
+331_b, victoria, white,20, parker street, moy, calliope,4514, sa,19430329,3459225,<=50K
+332_b, sarah, cionci,7, maccallum circuit, chateau royal, fish creek,6026, sa,19970102,7637145,>50K
+333_b, jack, campbell,169, marr street, rhosewyn, oakleigh,3356, vic,19770109,1485686,<=50K
+334_b, william, lazaroff,12, leah ylose, milwlood, forbes,7256, qld,19780204,8072193,<=50K
+335_b, gianni, dooley,38, ashburton circuit, brentwood vlge, ryde,6025, qld,19371212,5854405,<=50K
+336_b, jake, westbrook,231, booroondar a street, jodayne, salisbury east,2074, nsw,19001115,2330929,<=50K
+337_b, destynii, hope,24, barunga street, villa 3, st peters,4061, nsw,19210430,6586920,<=50K
+338_b, caleb, roberts-yates,40, millpost close, bandera, cobar,3500, qld,19670914,5399458,<=50K
+339_b, georgia, rees,40, maclaurin crescent, spring creek, fullarton,6233, nsw,19210305,5595588,<=50K
+340_b, julia, webb,86, english court, benachie, south grafton,4740, nsw,19700225,1675991,<=50K
+341_b, grace, carbone,37, longstaff street, gleneira, seymour,6233, vic,19380212,4562990,<=50K
+342_b, hayden, marinos,10, chirnside circuit, allensleigh, success,6560, vic,19720613,6046888,<=50K
+343_b, daniel, warusevitane,123, mccaughey street, lemnos, lismore,3023, vic,19990918,9753591,>50K
+344_b, lauren, gibb,35, tenison-woods circuit, the gums, adamstown heights,6333, nsw,19090430,3651643,<=50K
+345_b, harvey, dunstone,23, merrett garden, guest hse, macedon,2097, nsw,19150106,8080352,<=50K
+346_b, samuel, eglinton,17, tanumbirini street, birks harbour, raymond terrace,2176, vic,19690927,1843263,<=50K
+347_b, georgia, simmonds,16, hurley street, iowanna, mittagong,2100, nsw,19230413,5714719,>50K
+348_b, kiera, everett,4, rohan rivett crescent, brindabella specialist centre, alice springs,5558, nsw,19371021,2315324,<=50K
+349_b, emiily, rundle,112, tarago place, fiveways, brookvale,2122, nsw,19461226,2419260,<=50K
+350_b, brandon, freiman,27, tucana street, sunnyhills, tweed heads south,2500, nsw,19370325,3419459,<=50K
+351_b, harriet, horsley,12, woinarski place, white lodge, mulgrave east,3280, wa,19710926,4215401,<=50K
+352_b, harry, boyes,14, kadina crescent, hobbit hole, regents park,3199, qld,19550309,6398424,<=50K
+353_b, shakirah, van der steege,51, newdegate street, airforce memorial estate, darlington,3630, tas,19580903,8013399,<=50K
+354_b, alex, webb,92, outtrim avenue, st francis village, paddington,3056, nsw,19700807,5594371,<=50K
+355_b, giorgia, smallacombe,10, dundas court, somerton park, glengarry,4108, sa,19990313,6657239,>50K
+356_b, benjamin, hartland,40, ranken place, sorrento, collie,3799, qld,19080206,7081220,>50K
+357_b, ethan, hand,1, lambrigg street, rainmore, south perth,5075, vic,19410622,3559862,>50K
+358_b, thomas, humphreys,35, mayne street, gull cottage, the entrance,2000, qld,19880516,3033985,>50K
+359_b, tommy, morrison,49, mcnamara street, rowan lodge, north ryde,2038, nsw,19231010,1815246,<=50K
+360_b, daniella, boothroyd,101, elkington street, witsend, waterloo,6058, sa,19600904,7721398,<=50K
+361_b, chevonne, wilkins,18, wilga place, the slipway, kellyville,4215, sa,19721204,9505241,<=50K
+362_b, jacob, siviour,12, dobbie place, brentwood vlge, gundagai,2839, qld,19160602,6846430,<=50K
+363_b, emma, thorpe,60, sharwood crescent, wyuna, warriewood,4510, vic,19211218,3969676,<=50K
+364_b, alexandra, yiannoulis,159, archdall street, tall pines, rowville,3284, vic,19790913,7515259,<=50K
+365_b, timothy, modystach,32, julia flynn avenue, rcg centre, charlestown,4655, vic,19671125,2430623,<=50K
+366_b, bailee, dooley,24, balfour crescent, baybreeze, bowral,3152, vic,19140520,5906239,>50K
+367_b, kalli, watkin,187, getting crescent, koah lodge, newrybar,4301, vic,19031202,2486965,<=50K
+368_b, caleb, newberry,14, mackenzie street, mountainview retirement vlge, emerald,2560, sa,19211203,1454135,<=50K
+369_b, matthew, jardine,36, sainsbury street, alice downs, windsor,4573, nsw,19180805,2211117,<=50K
+370_b, brooke, green,14, laker crescent, sapri, whittingham,2166, wa,19920111,6640023,<=50K
+371_b, zachariah, nadels,68, dennys place, laureldale, northgate,2133, qld,19801214,9144398,<=50K
+372_b, zachary, bradshaw,106, totterdell street, barossa village, colo vale,3444, qld,19151219,6773972,<=50K
+373_b, liam, grainger,251, magrath crescent, brindabella specialist centre, mclaren flat,2041, nsw,19690906,9030428,<=50K
+374_b, madison, struck,40, drake brockman drive, eden park, st albans,4218, nsw,19600814,8963800,>50K
+375_b, vincent, braithwaite,29, tweed place, brileen, cabramatta,5051, vic,19740815,8052521,<=50K
+376_b, samantha, mapstone,44, hutchins street, golden ponds resort, maitland,2076, sa,19941127,4499927,<=50K
+377_b, kydan, gigney,64, o'rourke street, timdoolin, shellharbour,4059, nsw,19760409,3279351,<=50K
+378_b, zane, dixon,29, boustead circuit, baranbali, redbank plains,4740, nsw,19590328,3308725,<=50K
+379_b, kayla, elrick,95, jardine street, banksia, catalina,2160, vic,19250202,6802075,<=50K
+380_b, tara, pratap,15, wattle street, cantlay farm, aspley,2527, wa,19301128,3688555,<=50K
+381_b, nicholas, bruinewoud,335, shakespeare crescent, marandyvale, kareela,2577, nsw,19621123,1642628,<=50K
+382_b, joshua, ryan,14, wynn street, tathra, bilpin,2529, vic,19240510,2519978,<=50K
+383_b, cambell, ryan,23, bradfield street, bolinda vale, brighton,2537, nsw,19700416,7188248,<=50K
+384_b, timothy, soulemezis,18, allambee street, brentwood vlge, balaklava,2590, vic,19010923,1004898,<=50K
+385_b, lucy, fitzpatrick,264, ainsworth street, the sarina centre, camden,3500, qld,19210222,6619346,<=50K
+386_b, jayde, glass,15, macarthur avenue, shillelagh park, glenella,3200, vic,19161226,9446563,<=50K
+387_b, nikita, bezuch,10, boddington crescent, holiday vlge, mcdowall,3020, nsw,19460615,8620625,<=50K
+388_b, leon, mason,545, hawkesbury crescent, doubtful ck, ballina,3137, qld,19541005,1583941,>50K
+389_b, bianca, cuming,9, albermarle place, harkness station, natimuk,3158, nsw,19911129,2315136,>50K
+390_b, jaimee, hanna,8, harkness street, belmore river, armidale,2062, nsw,19871116,2798753,<=50K
+391_b, bella, grierson,27, priddle street, green lagoon, christies beach,3125, vic,19310623,5873915,<=50K
+392_b, aidyn, morrison,1215, bertram street, tiverton, woy woy,4021, nsw,19160319,7949710,>50K
+393_b, tommy, green,122, nanima road, port 44, lower templestowe,6064, vic,19901006,6395834,>50K
+394_b, alexandra, finlay,3, erldunda circuit, neaavie, cooroy,2147, nsw,19600723,3910557,<=50K
+395_b, drew, bishop,6, gask place, balala station, heywood,3058, nsw,19000402,1553804,<=50K
+396_b, alana, frahn,530, a'beckett street, pyramid caravn park, lakes entrance,2477, vic,19630307,4624018,<=50K
+397_b, samuel, goldsworthy,28, louis loder street, grant patch, naremburn,4055, sa,19270607,5061165,<=50K
+398_b, amelia, lowry,54, jandamarra street, ellwood, kinglake east,4208, qld,19231009,2439141,>50K
+399_b, maddison, mahon,62, ellenborough street, brentwood vlge, east gordon,2224, qld,19381111,9640898,<=50K
+400_b, lewis, westbrook,14, hutchison crescent, ohio station, seaforth,4128, vic,19081217,5442782,<=50K
+401_b, william, george,31, kidman close, ocean breeze, labrador,3438, sa,19250214,9555232,>50K
+402_b, lily, collier,47, sargood street, amelia, port macquarie,3148, vic,19860413,6053640,>50K
+403_b, casey, fitzpatrick,34, hugh mckay crescent, glass house, hamilton,4178, nsw,19320411,3603845,<=50K
+404_b, nicholas, jenvey,59, bogan place, hopeview, bundaberg,2440, nsw,19921231,1646485,<=50K
+405_b, olivia, leong,75, naismith place, mckail, deer park,3177, nsw,19820831,9379794,<=50K
+406_b, reegan, noble,4, kauper street, poplars, carlingford,7173, vic,19501211,7625184,<=50K
+407_b, cameron, prideaux,50, oakes street, evenstar, condon,6164, nsw,19990615,3537256,>50K
+408_b, georgia, maynard,10, temperley street, tieve tara, toowong,3175, qld,19700324,3465730,<=50K
+409_b, danny, stephenson,16, o'shanassy street, banksia village, armidale,3130, tas,19831019,7199358,<=50K
+410_b, jessica, liddy,15, hyndes crescent, sec 1, fairlight,4133, nsw,19620602,9399509,<=50K
+411_b, madeline, mahon,27, medworth crescent, airforce memorial estate, rosebud,3107, sa,19970711,8911383,<=50K
+412_b, madeline, boyes,4, dowsley place, wattle place, kingsford,5062, vic,19760522,6564625,<=50K
+413_b, connor, toms,22, taggerty street, vivigani, malvern east,7310, qld,19991026,6080369,<=50K
+414_b, daniel, white,1, albermarle place, summer hill, brierfield,3810, sa,19870703,8258779,>50K
+415_b, benjamin, white,35, fiveash street, meadowvale village, cranbourne,2759, sa,19900716,7111467,<=50K
+416_b, ebony, van hees,34, bellinger circuit, morago, robina,2481, nsw,19040204,1761872,>50K
+417_b, grace, weidenbach,57, kemsley place, medical practice bendigo, klemzig,4127, nsw,19340907,9063243,<=50K
+418_b, asha, chetter,8, streeton drive, rosehill, scarborough,5051, qld,19440808,7992366,<=50K
+419_b, solomon, morrison,67, jarrahdale street, yaldara, empire bay,2097, qld,19400406,2523626,<=50K
+420_b, brinley, ho,6, vickers crescent, parks cottage, greenwith,2166, sa,19311119,9490562,<=50K
+421_b, zac, green,44, bingley crescent, green farm mates, karratha,5087, vic,19260814,7913094,<=50K
+422_b, matthew, brock,18, longworth place, never die, oaklands park,2092, nsw,19500905,5036431,>50K
+423_b, fraser, miles,8, bungonia street, hartley st school, kardinya,3782, vic,19390405,8206248,<=50K
+424_b, james, coleman,297, discovery street, irrigation farm, campsie,2315, wa,19350803,7236834,>50K
+425_b, amber, nguyen,293, hartung crescent, grandview, auburn,2209, nsw,19780324,1624161,<=50K
+426_b, stephanie, braithwaite,86, chisholm street, paradise lake resort, toowoomba,2516, nt,19750104,4262794,<=50K
+427_b, thomas, bruhn,21, namadgi circuit, mariner views, slacks creek,4670, wa,19540821,1246505,<=50K
+428_b, kira, wimmer,4, sturdee crescent, ark hall, tanjil south,3173, sa,19410628,4604196,<=50K
+429_b, ruby, hentze,30, harkness street, glenearra, florey,4178, sa,19030606,2379739,>50K
+430_b, erin, pernini,32, lorimer place, robertson barracks, northmead,5167, sa,19710527,5533014,>50K
+431_b, shanaye, averats,162, benjamin way, ashville, bamawm,3175, qld,19340625,8457909,<=50K
+432_b, amber, von hoist,75, pattinson crescent, school house, hoppers crossing,3311, vic,19970624,8009122,<=50K
+433_b, nicholas, clarke,13, gaylard place, tryphinia view, wetherill park,2810, nsw,19041223,3927795,<=50K
+434_b, bailee, vearing,18, bavin street, sun city tourist park, safety beach,6076, nsw,19741208,4201824,<=50K
+435_b, mhary, rundle,12, bradfield street, hollybrooke, woodlands,3280, vic,19960812,2523448,>50K
+436_b, patrick, green,88, kelsall place, killarney east, rose bay,5108, nsw,19151112,5843260,<=50K
+437_b, katelyn, simmonds,9, kellway street, amboyne, noble park,2148, vic,19930530,5268119,<=50K
+438_b, william, reid,12, tatchell street, st georges park, hoppers crossing,4814, nsw,19750418,4238509,<=50K
+439_b, joel, cerins,24, majura lane, bungarra, matraville,4164, wa,19860411,3772618,<=50K
+440_b, blake, bracci,159, duffy street, hillcrest lodge, bacchus marsh,4510, nsw,19590213,9959006,<=50K
+441_b, cameron, shepherd,16, clift crescent, nurock, northgate,2340, qld,19620826,1930833,<=50K
+442_b, megan, bishop,7, maltby circuit, buena vista, naremburn,4740, qld,19920611,9512945,<=50K
+443_b, leah, clarke,2, iterra place, brentwood village, new farm,4109, vic,19650213,9701390,<=50K
+444_b, emmerson, maziakowski,58, irvine street, loughmore, nunawading,4211, qld,19400316,1807250,<=50K
+445_b, jarrod, manson,29, dalgleish close, beth-el, mypolonga,3182, qld,19160808,9103373,>50K
+446_b, alessia, krajnc,30, fergusson crescent, kalga, shorewell park,5044, nsw,19421102,7927039,<=50K
+447_b, madeline, david,3, wagga street, bonnie doon, port broughton,3977, nsw,19451005,8930836,<=50K
+448_b, jack, steinert,61, french street, meadows estate, adamstown,4350, vic,19460712,3691990,<=50K
+449_b, daniel, green,1, hartog street, retirement village, bonnyrigg,2749, vic,19900926,9765281,<=50K
+450_b, amy, white,27, doyle terrace, tantallon, duncraig,3810, nsw,19340217,3650503,<=50K
+451_b, natalia, mccarthy,10, vogelsang place, albion heights, blair athol,6018, act,19841123,4528680,>50K
+452_b, adam, cordingley,50, chandler street, kenbar, duncraig,3915, vic,19000322,2892892,<=50K
+453_b, makayla, matthews,42, cullen street, st francis room, oakleigh,3233, nsw,19061006,7914405,>50K
+454_b, elle, royle,40, maribyrnong avenue, stapleton station, port lincoln,4220, nsw,19430114,8517219,<=50K
+455_b, helena, haskett,5, namadgi circuit, ryanfield, berowra heights,7307, qld,19560926,3772585,<=50K
+456_b, emiily, lowe,80, investigator street, mirilla, hopetoun,3377, vic,19420731,2555272,<=50K
+457_b, hannah, egan,9, elvire place, the iron farm, parkside,3042, nsw,19380131,6564365,<=50K
+458_b, daniel, fysh,27, appel crescent, wildes mdw, hermit park,2333, nsw,19620207,8595168,<=50K
+459_b, ridley, blake,142, forbes street, white lodge, mill park,3133, sa,19990618,1662040,<=50K
+460_b, chloe, bastiaans,49, sturdee crescent, rowethorpe, toowoomba,2232, vic,19470305,1208800,<=50K
+461_b, alicia, clarke,72, fitchett street, rowethorpe, whalan,2643, nsw,19811201,4620985,>50K
+462_b, jade, markakis,123, la perouse street, brentwood vlge, ascot,3121, qld,19020516,8651304,<=50K
+463_b, finn, baradakis,13, launceston street, ferndale, coolbellup,2323, qld,19281212,1281405,<=50K
+464_b, tayla, vandelaar,38, boehm close, florina park, port macquarie,2077, vic,19210928,6944524,<=50K
+465_b, alissa, ryan,519, boobialla street, urimbirra, seaforth,6018, nsw,19990829,1669952,>50K
+466_b, koula, haggett,18, hugh mckay crescent, woodleigh, lilydale,3028, vic,19000625,3064629,<=50K
+467_b, zarlia, gearman,2, quiros street, naranda, arana hills,2250, sa,19101225,4751144,<=50K
+468_b, harley, coleman,4, pridham street, merrydale, broome,2528, wa,19670119,3924037,<=50K
+469_b, irene, morrison,16, maitland street, the mall, burleigh heads,4077, vic,19650804,9676215,<=50K
+470_b, deakin, peachey,16, officer crescent, tesbury, nollamara,2144, tas,19690824,8507376,<=50K
+471_b, jacqueline, ferris,107, kriewaldt circuit, dunmoven, mirrabooka,3195, vic,19250708,6320610,<=50K
+472_b, jock, wilde,8, laidley place, halfmoon station, burnett heads,4702, nsw,19001220,4981468,<=50K
+473_b, imogen, bishop,10, badimara street, rockvale road, mount eliza,2606, qld,19460109,9681787,<=50K
+474_b, delaney, kiernan,3, weavell place, tilbrook, robina,7018, tas,19180423,8250056,<=50K
+475_b, joshua, morrison,26, bainbridge close, glenfyne angus stud, adelaide,2071, vic,19870429,8684749,<=50K
+476_b, takeisha, white,6, chuculba crescent, melaleuca, bundaberg,6062, vic,19350824,1092886,<=50K
+477_b, joshua, donkin,16, mather street, glebe retirement villa, park holme,3020, nsw,19750509,3544363,>50K
+478_b, vanessa, george,6, cleland street, rowethorpe, mount isa,4122, nsw,19420210,3116798,<=50K
+479_b, corey, godfrey,74, sturt avenue, cox court hostel, rapid creek,3976, wa,19720408,7156463,<=50K
+480_b, paris, parremore,16, guerin place, coralyn, north hobart,2250, wa,19260913,1309513,>50K
+481_b, lara, musolino,26, steinfeld court, table mountain, moree,3134, wa,19381019,4887522,>50K
+482_b, jayden, pendle,484, naas road, weeroona, mount gravatt,2164, vic,19070815,6759267,<=50K
+483_b, pascale, quast,33, kingham place, killarney, robertson,2135, wa,19570201,7680717,<=50K
+484_b, nicholas, mcneill,16, taylor place, tunis, bacchus marsh,6019, nsw,19800829,4524218,<=50K
+485_b, stephanie, george,50, mcculloch street, ardrossan, berwick,2226, qld,19691102,3352388,<=50K
+486_b, jacinta, webb,37, port jackson circuit, nimmitabel motel, maryborough,3500, nsw,19991017,7529668,<=50K
+487_b, anna, reid,19, morant circuit, grammar school, south turramurra,2040, vic,19960111,2799251,<=50K
+488_b, william, tomney,25, houghton place, omaru, gilmore,5043, nsw,19280525,7882159,<=50K
+489_b, melissa, dent,27, gungurra crescent, redlands, whyalla,3775, nsw,19960112,9846985,<=50K
+490_b, lily, reid,27, tyrrell circuit, bright view, port sorell,2578, sa,19010405,2062273,<=50K
+491_b, keira, zawistowski,18, symers street, irrigation farm, kirribilli,7112, vic,19781026,4217543,>50K
+492_b, hayden, kluske,25, kanooka street, grenoble, bonnyrigg,4740, nsw,19111028,9665345,<=50K
+493_b, isabella, ctercteko,61, sturt avenue, avocado acres, planland,7216, vic,19810626,8794181,<=50K
+494_b, matisse, kromwyk,14, charterisville avenue, phillip lodge, toowoomba,2880, nsw,19190122,1739657,>50K
+495_b, cambell, coleman,54, norton street, skilbister, coniston,3803, act,19731016,2382912,<=50K
+496_b, kai, mason,37, trimmer place, glenlee, warrane,4132, nsw,19651116,3708941,>50K
+497_b, joshua, berry,95, leahy place, crestfield, shenton park,6302, nsw,19550519,3007951,>50K
+498_b, heather, campbell,15, maitland street, southport retirement village, yinnar,4740, qld,19130206,4429520,<=50K
+499_b, madeline, bradshaw,22, saywell place, little nest, charlestown,6430, nsw,19190915,3776965,<=50K
+500_b, chloe, mason,9, beirne street, grandview, st albans,2035, nsw,19760319,1704784,<=50K
+501_b, nikita, mcgregor,1, sherwood circuit, cooranga, frankston,3892, sa,19250127,5134549,<=50K
+502_b, amelia, graham-jones,5, mcgivern crescent, australian fair west, new town,2163, act,19000619,5013227,>50K
+503_b, joel, bowerman,66, fidge street, ashgrove farms, salisbury,3328, vic,19060517,3551824,<=50K
+504_b, zali, white,6, mildura street, r s l retrmnt vlge, elizabeth vale,3034, nsw,19420704,2318181,<=50K
+505_b, gabrielle, langer,562, delegate street, oak valley, paddington,3910, wa,19800810,6248832,<=50K
+506_b, isabella, reid,42, sherbrooke street, armidale private hospital, tallong,2088, vic,19101002,2434717,>50K
+507_b, isaac, riddell,20, ern florence crescent, villa 147 henry kendall bayside, concord west,5042, nsw,19210805,7044469,>50K
+508_b, diamond, branston,124, longstaff street, two sticks estate, grenfell,3108, nsw,19720728,7015483,<=50K
+509_b, gabriel, green,18, alroy circuit, birrabilla, surry hills,4558, nsw,19901018,6199029,<=50K
+510_b, mackenzie, boocock,81, tipiloura street, ursula, budgewoi,7027, nsw,19030720,6435654,>50K
+511_b, timothy, twigger,9, tunney crescent, argyle, toorak,5031, vic,19210926,4013666,>50K
+512_b, malakai, palethorpe,23, marsden street, boonal, gaven,2340, nsw,19031029,6356251,<=50K
+513_b, jacob, badalassi,7, patey street, summer hill, surfers paradise,4035, nsw,19171217,9068304,<=50K
+514_b, samantha, ryan,12, forsythe street, murrawarra, winthrop,2107, nsw,19100210,2049144,<=50K
+515_b, emiily, scheel,12, cuscaden crescent, hopeview, jamboree heights,4816, vic,19521013,4479115,<=50K
+516_b, ruby, garnsey,317, harcourt street, navan park, north narrabeen,4163, nsw,19731030,3572082,<=50K
+517_b, makenzi, lowe,10, pandanus street, the homestead, springfield,2745, vic,19370123,3748468,<=50K
+518_b, daniel, rafanelli,1, warragamba avenue, aptmnt 240, eight mile plains,3233, nsw,19450221,3820840,<=50K
+519_b, imogen, boyle,57, gilmore crescent, village walk (cnr high s street, safety bay,3088, qld,19360622,4299413,<=50K
+520_b, antonio, hage,34, grigson place, warrawong, tinamba,3636, nsw,19330331,8493945,<=50K
+521_b, jacob, watts-endresz,6, maranoa street, rubern cottage, cowra,2046, qld,19400708,4839960,<=50K
+522_b, michael, leslie,2, kirwan circuit, blenmore, bangor,3150, qld,19350423,7283233,<=50K
+523_b, lochlan, weaver,30, carnegie crescent, gantham, wendouree,3198, nsw,19990511,5721590,<=50K
+524_b, taliah, buitendyk,19, emily bulcock crescent, palmwood court, flinders park,5109, sa,19950831,1039913,<=50K
+525_b, sarah, wheatley,24, oxley street, jaspars, kellyville,2430, wa,19640212,3619638,<=50K
+526_b, madison, seddon,9, wirilda street, killarney, rosebery,4109, vic,19770403,7497285,<=50K
+527_b, diamond, mason,371, madigan street, brumby's run, flora hill,2250, nsw,19161109,2452931,<=50K
+528_b, lachlan, clarke,19, bunbury street, kildurham, nhill,3805, nsw,19180501,2371874,<=50K
+529_b, sonja, clarke,7, carrington street, la rhune, coolaroo,6317, vic,19750513,4511800,<=50K
+530_b, leon, mandica,25, antill street, upper green farm, laverton,2115, sa,19540826,3910447,<=50K
+531_b, amber, webb,25, toolambi street, villa 235 henry kendall vlge, helens hill,6156, sa,19470715,7791091,>50K
+532_b, bailley, fair,27, lacey place, sunny-brae, auburn,3757, wa,19730509,9201783,<=50K
+533_b, kiria, pamnany,20, gatton street, cypress garden, beechmont,4301, vic,19040202,8317110,<=50K
+534_b, riley, grubb,377, abercrombie circuit, lapstone, burwood,6330, vic,19040327,2728675,<=50K
+535_b, zachary, lowe,10, knox street, myliton, ulverstone,5604, wa,19690408,6750174,<=50K
+536_b, samuel, matthews,42, ferdinand street, eagle rock, east fremantle,2049, nsw,19140402,4593177,<=50K
+537_b, nicholas, coffey,41, disney court, siesta caravn park, coonabarabran,2428, act,19960110,9358749,<=50K
+538_b, sara, wilkins,12, boddington crescent, wyseworth rmb 346, naracoorte,5084, qld,19621027,7634727,<=50K
+539_b, alaiyah, stephenson,61, captain cook crescent, hd tiparra sec 333, nhill,3204, act,19050712,2910230,>50K
+540_b, ethan, mcdermid,27, buggy crescent, rsde 817 wallace, eden hills,3287, nsw,19921128,3857387,<=50K
+541_b, charlie, browne,33, rivers street, rowethorpe, east hills,2539, sa,19360722,3866237,>50K
+542_b, jett, mendrin,108, ainsworth street, colooli village, bassendean,3777, nsw,19050414,4009353,<=50K
+543_b, ella, wilkins,468, hodgson crescent, currandina, ellenbrook,2615, sa,19010903,2658739,<=50K
+544_b, gabriella, pilavci,35, perry drive, medical centre, mooroolbark,2460, wa,19160117,2556284,>50K
+545_b, lara, snelling,1, bimbiang crescent, the briar patch, toorak,5049, vic,19610916,8470980,<=50K
+546_b, harrison, schuster,21, boldrewood street, brambletye vinyard, port macquarie,4069, vic,19851117,4249901,<=50K
+547_b, alexandra, berry,18, mckinley circuit, aronui, tahmoor,2206, nsw,19120808,1881229,>50K
+548_b, alana, thredgold,32, rivers street, oakdale ranch, mooloolaba,4715, vic,19250525,2372845,>50K
+549_b, joshua, dolan,16, gabriel place, greglea village, lobethal,5162, qld,19670425,4173804,<=50K
+550_b, stephanie, tuckwell,6, weddin circuit, hillside farm, scarborough,4152, sa,19920918,9299910,<=50K
+551_b, cameron, dolejs,17, medley street, merrangbauer park, prospect,4812, nsw,19250828,8585817,>50K
+552_b, william, minnican,10, tunney crescent, berkeley vlge, redbank plains,2835, qld,19530313,5016929,<=50K
+553_b, teaha, rawlings,23, charterisville avenue, moonby downs, toowoomba,4006, sa,19601115,9235941,>50K
+554_b, katelyn, slack-smith,5, mugga way, bundong, marrara,3505, nsw,19990408,3364407,<=50K
+555_b, tiarna, lapienis,47, hunter street, cooralook, ormond,6027, nsw,19971203,3933703,>50K
+556_b, emiily, green,47, craig place, rosemeade, ashfield,3095, nsw,19580116,4427524,<=50K
+557_b, ethan, matson,310, worrall street, ben nevis estate, albion park rail,3672, qld,19830111,9201028,<=50K
+558_b, arabella, holyoak,49, hughes crescent, b, malvern,4405, wa,19280311,8444431,<=50K
+559_b, jacobie, white,32, pitcairn street, willowfield, sefton,2565, wa,19940831,6421878,>50K
+560_b, madeleine, wang,129, goodsir place, may cottage, devonport,4030, vic,19840516,1358332,<=50K
+561_b, jeremy, matthews,70, spensley place, pandora orchard, cecil park,3030, act,19700526,6692221,<=50K
+562_b, kristin, swiggs,24, calder crescent, villa 3, campbelltown,5690, nsw,19460420,1866967,<=50K
+563_b, marianne, reni,23, bath place, eventide home, casino,5118, sa,19920302,1168729,<=50K
+564_b, laura, mizon,52, mugga lane, jarrah rd shopping town, penguin,2038, nsw,19510906,9223852,<=50K
+565_b, james, clarke,119, moondarra street, de cameron, tweed heads,3095, vic,19061129,6885994,>50K
+566_b, alia, haydock-wilson,6, croton street, kimberley, the entrance,3132, nsw,19901212,3171838,<=50K
+567_b, luke, beattie,16, blinkhorn place, lucerne park, corrimal,4118, act,19211118,1702856,<=50K
+568_b, sarah, noble,75, perrin circuit, westside, glenside,2016, vic,19010712,3254420,<=50K
+569_b, tiana, ryan,146, doyle terrace, danric lodge, tottenham,3355, sa,19280723,6141484,<=50K
+570_b, ruby, warrior,5, ironbark crescent, margaret river carvn park, airds,3075, vic,19550812,7215752,<=50K
+571_b, damien, garnett,4, narrabundah lane, laure, penola,6168, nsw,19480129,7916610,<=50K
+572_b, james, truman,4, knoke avenue, red hills, wallsend,4221, act,19740918,7208464,<=50K
+573_b, william, bobbitt,30, woralul street, jingara, woy woy,2340, nsw,19240413,8601795,<=50K
+574_b, mikayla, siviour,2, steinwedel street, cherrybank, pymble,2037, vic,19850704,2668143,>50K
+575_b, ty, white,25, newbery crescent, jillamtong, albany creek,3630, tas,19111216,1390829,>50K
+576_b, pace, nguyen,352, marquet retreat, joint coal board, labrador,3064, sa,19670320,3133672,>50K
+577_b, emiily, capel,1721, burkitt street, locn 1025, ascot vale,4053, nsw,19341111,3160127,<=50K
+578_b, lily, kradolfer,12, wanganeen avenue, broughton brook, toowoomba,2750, vic,19501111,2841376,<=50K
+579_b, zara, george,3, legge street, lashbrooke, mount low,3136, qld,19150920,3122448,<=50K
+580_b, james, worsley,1, pike place, melaleuca, broadmeadows,4818, nt,19651211,5706752,<=50K
+581_b, anthony, burkevics,1, dryandra street, alexandra racecourse, ballarat,3048, vic,19180927,5593368,<=50K
+582_b, melinda, trent,28, dugdale street, kilwinning, penshurst,4556, qld,19240721,5930609,<=50K
+583_b, leo, george,38, langridge street, greenwood, braidwood,2038, nsw,19631227,2248161,<=50K
+584_b, anton, marinos,44, geils court, mayflower retrmnt vlge, bridgewater,4066, vic,19510826,7146893,<=50K
+585_b, nathan, green,10, franc place, tara park, marsden,3337, qld,19060131,4028347,<=50K
+586_b, barnaby, godfrey,18, hopegood place, osters, brighton,5086, nsw,19461029,4625012,<=50K
+587_b, wilson, hannagan,25, boolee street, gowen, invergowrie,2290, nsw,19641216,4883777,<=50K
+588_b, jade, clarke,63, fred williams crescent, plainview, kitchener,3127, nsw,19350407,4177466,<=50K
+589_b, jarod, lusted,22, prescott street, girrahween homestead, beaumaris,4502, nsw,19321125,6642172,<=50K
+590_b, jessica, mac neill,13, neeld place, bessy sue, sheffield,3124, act,19160213,6416337,<=50K
+591_b, coby, mason,220, blandon place, karingah, kangaroo flat,2315, nsw,19641221,4800165,<=50K
+592_b, matthew, widdowson,304, shain place, canberra hse, laverton,4878, nsw,19450221,8346142,<=50K
+593_b, ethan, fitzpatrick,10, laughton street, manor park, thornbury,6258, vic,19040922,6023201,<=50K
+594_b, mitchell, white,2, denovan circuit, bracken leigh, mill park,6210, nsw,19681012,1236544,>50K
+595_b, roberta, laing,23, morrison street, budgereebella, flagstaff hill,4753, vic,19690425,5204352,>50K
+596_b, marlee, boss,16, slessor crescent, north arm, ballarat,2134, sa,19940504,2633944,<=50K
+597_b, kylie, seppelt,4, tanner place, wearmouth, modbury,4883, qld,19251024,3972497,<=50K
+598_b, chloe, ryan,53, yarra street, balmoral garden, seymour,2905, vic,19450712,4309035,<=50K
+599_b, natassia, horsley,12, tanumbirini street, alabama, numeralla,4573, vic,19721029,9492508,<=50K
+600_b, emma, copperstone,5, decima circuit, crower, avoca north,2166, nsw,19451208,1538637,<=50K
+601_b, timothy, kinter,29, hawker street, argyle village, quilpie,2594, vic,19190926,7137052,<=50K
+602_b, taylah, reid,25, albermarle place, cypress garden, revesby,2210, nsw,19571029,7276846,<=50K
+603_b, hayden, tabrett,31, molesworth street, horse-shoe bend, boulder,6000, tas,19770116,5103849,<=50K
+604_b, keaton, webb,2, mckinley circuit, solitaire, lemon tree passage,3943, nsw,19940724,6702216,>50K
+605_b, luke, mahony,58, scaddan place, elston, beenleigh,2830, qld,19550621,6013061,<=50K
+606_b, zara, mason,27, o'connor circuit, fm 226, horsley,2256, nsw,19730628,8233098,<=50K
+607_b, jaiden, ferris,2, pandanus street, merri banks, coffs harbour,4067, vic,19571024,1900307,<=50K
+608_b, byron, white,4, tyson street, rocklea, eaglehawk,3188, sa,19580101,7284710,<=50K
+609_b, jazz, campbell,9, newbery crescent, cullinga park, fairlight,3850, qld,19391218,3106041,>50K
+610_b, alessandra, eyles,10, loureiro street, rowethorpe, illabo,2014, nsw,19210630,7014716,<=50K
+611_b, sybella, shepherd,34, mainwaring rich circuit, retirement village, werrington,2118, tas,19460321,7440143,<=50K
+612_b, nikki, jaric,13, renmark street, parish lorne, chester hill,2106, nsw,19520401,9272010,<=50K
+613_b, harrison, du,22, cooks street, greenbank, adelong,5244, wa,19320522,6653003,<=50K
+614_b, charles, hassall,1, lansell circuit, marylands, riverwood,3630, nsw,19650120,1934914,>50K
+615_b, john, cosenza,54, wentworth avenue, stoney creek, st kilda,4305, nsw,19800116,5521510,<=50K
+616_b, alexandra, giordano,32, crozier circuit, marsden forest, blacktown,4680, vic,19341104,5423203,<=50K
+617_b, kayla, stanley,378, namatjira drive, campaspe, pullenvale,5007, tas,19480518,4545738,<=50K
+618_b, amaya, skirca,3, heagney crescent, willow lodge, ross,3980, wa,19980122,3780122,<=50K
+619_b, tara, huddy,14, diggles street, st francis village, park holme,2603, vic,19160630,3611615,<=50K
+620_b, benjamin, matthews,5, namatjira drive, buena vista, preston,5290, vic,19531201,3174751,<=50K
+621_b, ned, donaldson,12, anzac park, linton, port lincoln,3221, vic,19170225,3467265,<=50K
+622_b, nicholas, jolly,181, tullaroop street, federation cove, old toongabbie,2606, wa,19660414,3580537,<=50K
+623_b, michael, clarke,37, mcintyre street, sherwood, maryborough,3113, wa,19240223,1886418,<=50K
+624_b, william, margush,14, bindaga street, unt 2, yackandandah,3150, nsw,19780603,3588509,<=50K
+625_b, jessica, hanna,7, jerrabomberra avenue, yaraan, smithfield,2821, nsw,19380407,9277788,<=50K
+626_b, garth, clarke,11, yampi place, thistledoo, noble park,5608, vic,19760322,9574946,<=50K
+627_b, bianca, mccarthy,23, wakefield garden, foster ldge (cnr wallis s street, elizabeth south,3216, vic,19991221,3231146,<=50K
+628_b, madeline, liteplo,28, mckay garden, kangaroo grnd, creswick,2871, nsw,19640410,9983895,<=50K
+629_b, joshua, golden,22, mcintosh street, ra 23012, noble park,2753, sa,19940329,1747756,<=50K
+630_b, jacqueline, malinauskas,4, jabanungga avenue, longplain, bundanoon,4878, vic,19840808,5856134,<=50K
+631_b, kiara, drechsler,2, shackleton circuit, glenview, bulimba,4064, tas,19590816,4345746,<=50K
+632_b, danielle, campbell,582, paul coe crescent, ningana, bronte,3156, nsw,19531121,9708458,<=50K
+633_b, andrew, dunstone,2, hodgson crescent, homevale, nambour,2121, nsw,19230326,6824396,<=50K
+634_b, briley, sheldon,16, ellerston avenue, melaleuca, hamilton,4226, vic,19200327,8538359,>50K
+635_b, jamie, wardle,1, shakespeare crescent, youralla, harris park,2720, nsw,19990726,4283546,<=50K
+636_b, nicholas, kaukov,295, jervois street, dodonaea wing, wamberal,4077, qld,19070128,8401381,<=50K
+637_b, thomas, alderson,4, temperley street, camelot est, rosslea,2195, nsw,19380411,1125721,<=50K
+638_b, jessica, winfield,47, fullagar crescent, shopping centre, taylors bay,4301, sa,19761107,9277281,<=50K
+639_b, kane, george,351, gosse street, balala station, minnamoolka,4061, vic,19571204,9672746,<=50K
+640_b, joel, lamprey,12, twynam street, alanvale, revesby,2537, qld,19200815,2877737,<=50K
+641_b, talena, richmond,25, hopetoun circuit, tricorne (cnr scone r road, south melbourne,3055, nsw,19621215,1051084,>50K
+642_b, matthew, dukic,20, ebeling court, sec 1, manly vale,4107, qld,19290219,1480466,>50K
+643_b, xanthe, maynard,2, blackman crescent, rosa blanca, yeoval,2196, qld,19110520,6072195,<=50K
+644_b, jack, dunnicliff,63, tristania street, legacy vlge, sale,2428, vic,19760618,4815066,>50K
+645_b, harrison, stanley,69, macalister crescent, applewoods, thornlie,5063, qld,19871206,4461645,<=50K
+646_b, jye, churches,1, fraser court, wirruna, labrador,4151, vic,19200210,2271081,<=50K
+647_b, gillian, pighin,123, hilder street, iron bark ridge, cooma,4508, nsw,19990501,6489570,>50K
+648_b, abigail, paterson,2, bega flats, bowen park, blakehurst,4151, tas,19021218,4253487,<=50K
+649_b, naomi, reid,6, jamieson crescent, locn 2192, unanderra,2031, qld,19980521,6918953,<=50K
+650_b, kyle, straczek,1, hardwick crescent, the willows, blacktown,2100, vic,19160506,4665343,>50K
+651_b, finn, leslie,7, longmore crescent, the lodge, woodcroft,7250, qld,19670715,7668675,<=50K
+652_b, sarah, mccarthy,38, nealie place, sunny braes, north ward,4017, qld,19130115,6518105,<=50K
+653_b, eliza, campbell,113, dines place, villa 74 village glen, figtree,2770, nsw,19651205,1754771,>50K
+654_b, robbie, lowe,27, woolnough street, tintagel, armidale,4558, nsw,19680428,6788571,<=50K
+655_b, lushia, george,15, faithfull circuit, tynwall, cranbourne,5083, nsw,19180219,9545129,<=50K
+656_b, matthew, ryan,17, darwinia terrace, swinton, acacia ridge,4214, nsw,19510905,4210560,<=50K
+657_b, zali, clutterbuck,13, twelve trees crescent, colbes, taringa,4178, vic,19821023,9384648,<=50K
+658_b, harry, mason,42, jabanungga avenue, crown reserve, ryde,4490, wa,19650607,9577264,>50K
+659_b, mackenzie, reid,37, ebden street, unt 2, malabar,2233, vic,19550203,8091055,<=50K
+660_b, isaac, white,15, jarman place, sherwood, o'sullivan beach,2303, nsw,19460105,6983162,>50K
+661_b, jordan, godfrey,19, bettington circuit, raycroft, merricks north,2229, nsw,19380817,1480851,>50K
+662_b, aliza, lloydd-wright,42, port jackson circuit, grnny flt, brisbane,3078, qld,19800509,1628855,<=50K
+663_b, emiily, hingston,15, paul coe crescent, hawkesbury road, mooroolbark,2565, sa,19711219,6897463,<=50K
+664_b, jackson, herbert,15, gooreen street, ripple brook station, highett,4870, vic,19170311,2630363,<=50K
+665_b, catherine, gawthrop,16, westbury circuit, black snake creek, arundel,3162, qld,19151003,3517894,>50K
+666_b, isabella, block,34, petterd street, westella, st albans,6149, nsw,19111028,2274401,<=50K
+667_b, indiana, goode,4, galibal street, antanoff' south, east maitland,3183, vic,19420313,5648189,<=50K
+668_b, tyler, siviour,1, ina gregory circuit, oivi, blakeview,3630, qld,19030131,6849394,<=50K
+669_b, andrew, iovino,21, seddon place, civic centre, millers point,2763, nsw,19560823,3865428,>50K
+670_b, nicholas, hoyland,45, shirlow place, jewells medical centre, wantirna,5049, vic,19200610,4052512,<=50K
+671_b, tiarna, harrington,1, crisp circuit, magpie downs, mannum,5264, nsw,19060622,1436628,>50K
+672_b, hayley, tu,5, holland street, manresa, ventnor,5039, qld,19571024,3333835,>50K
+673_b, zachary, dixon,18, couchman crescent, yarrimbah, wantirna,2132, vic,19400312,6746706,<=50K
+674_b, erin, krollig,68, wells road, rosehill, auburn,5068, sa,19421210,5690708,<=50K
+675_b, gianni, jolly,38, glencross street, locn 10045, booval,2260, wa,19740903,3082635,<=50K
+676_b, william, buhagiar,127, mataranka street, retirement village, mundingburra,5211, nsw,19350212,5998949,<=50K
+677_b, joshua, george,24, rose scott circuit, ponderossa, goonellabah,2464, nsw,19250202,6419725,<=50K
+678_b, mia, shepherd,7, churchill way, greenslopes, seven hills,2449, vic,19760830,3991319,<=50K
+679_b, tess, battisson,1, wyola place, malsah, west wollongong,2210, nsw,19230918,3152618,>50K
+680_b, courtney, weller,35, florence taylor street, flt 61, vermont,4352, vic,19910120,7615385,>50K
+681_b, liam, jolly,10, endeavour street, pinnacles caravn park, mansfield,7310, qld,19931105,2505329,>50K
+682_b, aiden, roche,48, eppalock street, elmwood, port lincoln,4573, wa,19400329,6195026,<=50K
+683_b, brooklyn, white,362, o'loghlen street, mirrimbah, toowoomba south,2259, wa,19410904,7203797,<=50K
+684_b, georgia, weidenbach,4, marou place, blueberry, innaloo,4068, vic,19280919,5368200,<=50K
+685_b, chloe, white,33, gadali crescent, rondayvoo, loganlea,3029, vic,19331024,8293735,<=50K
+686_b, rhiannon, bishop,39, rossarden street, oakdale, clayton,2037, qld,19080513,6284110,<=50K
+687_b, benjamin, lette,34, condamine street, arcadia, silverdale,4670, nsw,19600502,7770680,<=50K
+688_b, henry, dichiera,34, pomeroy street, tower hill, orange,5680, nsw,19000910,7446545,<=50K
+689_b, cameron, shepherd,91, mckinlay street, pindara medical centre, bonnyrigg,2075, nsw,19690127,6756281,<=50K
+690_b, samantha, bellamy,123, hawkesbury crescent, bristin, pallara,2756, nsw,19091019,9345240,<=50K
+691_b, riley, kelley,8185, edmond close, leisure living vlge, mount stuart,2760, wa,19390207,9887277,<=50K
+692_b, silas, painter,6, parkhill street, glendora, st peters,3338, vic,19280710,4164696,<=50K
+693_b, kirra, browne,26, shoalhaven avenue, loormeah park, surry hills,3042, tas,19430407,8370048,<=50K
+694_b, timothy, botham,21, grund place, brentwood vlge, robina,2603, vic,19200714,2476704,<=50K
+695_b, cheree, bowerman,55, tregear close, northwood park, st peters,3191, qld,19091213,3770036,<=50K
+696_b, anton, goode,11, lalor street, killara homestead, taree,2195, vic,19081025,3128289,>50K
+697_b, william, everett,12, callabonna street, fernbank, bull creek,7184, tas,19921006,2805780,<=50K
+698_b, isaac, sherriff,6, britten-jones drive, wyuna, greendale,3976, tas,19330719,7424128,<=50K
+699_b, bailey, green,76, jackie howe crescent, glengara village, murgon,3340, nsw,19960416,9882349,<=50K
+700_b, michael, goldsworthy,2, forbes street, wdgee street, tarragindi,2604, vic,19540317,3675381,>50K
+701_b, max, britten,2, schlam place, gowrie, dungog,5075, wa,19441213,9043323,>50K
+702_b, riley, pascoe,86, lexcen avenue, brentwood vlge, south brisbane,7053, sa,19380905,1815088,<=50K
+703_b, vendula, forgie-wendt,11, mccabe crescent, parry house, allingham,2484, nsw,19650317,1609478,<=50K
+704_b, bethanie, menzies,120, archibald street, krismark, belmont,2287, nsw,19871019,8046929,>50K
+705_b, lochlan, weaver,30, carnegie crescent, gantham, wendouree,3197, nsw,19990511,4335106,<=50K
+706_b, shanaye, averats,162, benjami n way, ashville, bamawm,3175, qld,19340625,8786773,<=50K
+707_b, cambell, coteman,45, norton street, skilbister, coniston,3803, act,19731016,2389212,>50K
+708_b, timothy, haythorpe,21, grund p lace, brentwood vlge, blackmans bay,2603, vic,19200714,2476740,<=50K
+709_b, olivia, leong,57, naismit hplace, mckail, deer park,3177, nsw,19820831,5649007,<=50K
+710_b, ethan, hand,1, lambrigg sitreet, rainmore, sout perth,5075, vic,19411222,3559682,>50K
+711_b, jacquline, maliauskas,4, jabanunggaavenue, longpkain, bundanoon,4878, vic,19840808,4094122,>50K
+712_b, antn, goode,1, lalor stteet, killara homestead, taree,2195, vic,19081025,3128298,<=50K
+713_b, riley, kelley,8185, edmond close, leisure living vlge, mount stuart,2706, sa,19390207,4148621,>50K
+714_b, liam, jolly,10, endeavour sreet, pinnacles caravn park, mansfield,7310, qld,19931105,2506329,<=50K
+715_b, hayedn, marinos,10, chirnside circuit, allensleigh, success,6560, vic,19720613,6046848,<=50K
+716_b, maddison, mahon,62, ellenborlugh street, brentwood vlge, east gordon,2224, qld,19381111,9648098,<=50K
+717_b, jayde, glass,15, macarthur avenue, shillelath park, glenella,3200, vic,19161226,9446536,<=50K
+718_b, daniel, white,1, albermarke place, summer hill, brierfield,3810, sa,19870703,8258879,<=50K
+719_b, georgia, petersen,20, temperley s treet, tieve tara, toowong,3715, qld,19700324,4385775,>50K
+720_b, cheree, bowerman,55, tregearc lose, northwood park, st peters,3191, qld,19091213,3770636,<=50K
+721_b, alexandra, yiannoulis,159, archdall street, tall ipnes, rowville,3284, vic,19790913,7551259,>50K
+722_b, ruby, warrior,5, ironbarkcrescent, margaret river carvn park, penshurst,3075, vic,19550812,5870334,>50K
+723_b, laznger, gabrielle,526, delegateqstreet, oak valley, paddington,3910, wa,19800810,2343036,<=50K
+724_b, emma, copperstone,5, decima circuit, crwer, avoca north,2166, nsw,19451208,1536837,<=50K
+725_b, tiarna, lapienis,47, hunter street, cooralook, ormond,6027, nsw,19971203,5568749,>50K
+726_b, indiana, goode,4, galibal street, antanoff ' south, east maitland,3183, vic,19420313,5641889,<=50K
+727_b, mackenzie, reid,37, ebdenstreet, unt 2, malabar,2233, vic,19550203,8090155,<=50K
+728_b, jazz, campell,9, newbery crescent, cullingaepark, fairlight,3850, qld,19391218,7149087,<=50K
+729_b, bailee, vearifng,18, bavin atreet, sun city tourist park, safety beach,6076, nsw,19741208,4201844,>50K
+730_b, geogia, simmovnds,16, hurley street, iowana, mittagong,2100, nsw,19230413,5714791,<=50K
+731_b, roberta, laing,23, morrison street, budgerebella, flagstaff hill,4573, vic,19690425,5203452,<=50K
+732_b, melinda, trent,28, dugdale street, kilwinning, penshurst,4556, qld,19240721,5900609,<=50K
+733_b, lily, kradolfer,13, wanganekn vaenue, broughtonbrook, toowoomba,2750, vic,19501111,9815770,<=50K
+734_b, jaemo, clatke,119, moondarra street, de cameron, tweedhaeds,3095, vic,19061129,6889594,<=50K
+735_b, sara, au,12, boddington crescent, wyseworth rmb 346, naracoorte,5084, qld,19621027,7694727,<=50K
+736_b, lachlan, boothroyd,101, elkington street, witsend, waterloo,6085, sk,19600904,5764782,<=50K
+737_b, gawthrop, catherine,16, westbury crcuit, black sna ke creek, arundel,3162, qld,19151003,9134417,<=50K
+738_b, jessica, winfield,47, fullagar crescent, shopping centre, taylors bay,4031, sa,19761107,2938526,<=50K
+739_b, caleb, fitzpagrick,10, laughton stzreet, manor park, thornbury,6258, vic,19040922,3284048,>50K
+740_b, lucy, alddrson,4, temperley street, camelot est, rosslea,2159, nsw,19380411,1125271,<=50K
+741_b, nicholas, bruinewoud,335, shakespeare rescent, marandyvale, kareela,2577, nsw,19621123,5768862,<=50K
+742_b, harry, mason,42, jabanungga avenue, crown reserve, ryde,4490, wa,19650607,8822165,<=50K
+743_b, matthw, brock,18, longworth place, never die, oaklands park,2092, nsw,19500905,5036231,<=50K
+744_b, james, truman,4, shirra close, red hils, wallsgend,4212, act,19740918,9244854,>50K
+745_b, rile, grubvb,377, abercrombie circuit, lapstone, burwood,6338, vic,19040327,2728665,>50K
+746_b, andrew, dunsltone,2, hodgson crescent, homevale, nambour,2121, nsw,19230326,6824936,>50K
+747_b, bailee, dooley,24, balfour crescent, baybrleze, bowral,3152, vic,19140520,5906249,<=50K
+748_b, nikiga, bzeuch,10, boddington crescent, holiday vlge, mcdowall,3020, nsw,19460615,3999407,>50K
+749_b, jack, dunnicliff,63, tristania street, legacy vlge, sale,2248, vic,19760618,8513207,<=50K
+750_b, julia, webb,86, english court, benachie, south grafton,4740, nsw,19700225,1679591,>50K
+751_b, iren, hudyd,41, diggles street, st francis village, park holme,2603, vic,19160630,7026823,<=50K
+752_b, isaac, riddell,20, ern florene crescent, villa 147 henry kendall bayside, concor west,5042, nsw,19210805,7044649,>50K
+753_b, mcgregor, nikita,1, cooranlga, sherwood ircuit, frankston,3892, sa,19250127,9742298,>50K
+754_b, amy, white,27, doyle terrace, tantallon, duncraig,3810, nsw,19340217,3650130,<=50K
+755_b, kylie, seppelt,4, tannerip lace, wearmouth, modbury,4883, qld,19251024,3972479,<=50K
+756_b, lara, snelling,1, bimbiang crescent, the briar patch, toorak,5049, vic,19610916,8479980,<=50K
+757_b, cambell, ryan,23, bradfield xtreet, bolinda vale, brighton,2537, nsw,19700416,7188298,<=50K
+758_b, ethan, matsoin,310, bennevis estate, worrall street, albion park rail,3672, qld,19830111,3451352,<=50K
+759_b, leo, george,38, langridge street, gree nwood, braidwood,2038, nsw,19631227,2248611,>50K
+760_b, connor, toms,22, taggerty street, vivi gani, malvern east,7310, qld,19991026,6008369,>50K
+761_b, sarah, mccartnhy,38, nealie place, sunny braes, north ward,4017, qld,19130115,6511805,>50K
+762_b, emiily, hingstxon,15, paul coe crescent, hawkesbury road, mooroolbark,2556, sa,19711319,4431563,<=50K
+763_b, braedon, pendle,484, naas groad, weeroonq, mount grvaatt,2614, vic,19070815,6759627,<=50K
+764_b, mackenzie, boocock,81, tipiloura street, ursulda, budgewoi,7027, nsw,19030720,6436554,>50K
+765_b, gillian, pighin,2, hilderstreet, iron bark ridge, cooma,4508, nsw,19990501,6489507,>50K
+766_b, finn, baradakis,13, launceston street, ferndale, coolbellup,2323, qld,19281212,1284105,<=50K
+767_b, kirra, browne,26, shoalhaven avenue, loormeah park, surry hills,3042, tas,19403407,8221881,<=50K
+768_b, samuel, eglinton,17, tanumbirini street, birks harbour, raymond terrace,2176, vic,19690927,2802987,>50K
+769_b, emiily, capel,1721, burkitts treet, locn 1025, ascot vale,4053, nsw,19341111,4646376,<=50K
+770_b, gianni, jolly,83, glencross stteet, locn 10045, booval,2260, wa,19740903,3966573,>50K
+771_b, pace, nguyen,352, marquet retreat, joint co al board, labrador,3064, sa,19670320,2038425,>50K
+772_b, jia, fenwicsk,7, churchill way, greenskopes, seven hills,2449, vic,19760830,3991391,<=50K
+773_b, alex, webb,92, outtrim avenue, st francis village, paddington,3056, nsw,19700807,5595371,<=50K
+774_b, alia, haydock-wilson,6, croton street, kimberley, the ecntrance,3132, nsw,19901212,3171888,<=50K
+775_b, danielle, campbell,582, paul coe crescent, ningana, bronte,3156, nsw,19531121,2695021,<=50K
+776_b, steinert, jack,61, french street, meadows estate, adamstown,4350, vic,19460712,1716280,<=50K
+777_b, jacinta, webb,37, port jackson circuit, nimmitabel motel, maryborough,3500, nsw,19991017,6667933,<=50K
+778_b, isaauc, white,15, jarman place, sherwopd, o'sulliva beach,2303, nsw,19460105,4683020,<=50K
+779_b, jesdicai, hanna,7, jerrabombera avenue, yaraan, smithifeld,2821, nsw,19800101,6484233,>50K
+780_b, william, bobbitt,30, woralu lstreet, jingara, woy woy,2340, nsw,19240413,9731738,>50K
+781_b, briley, shedlon,16, ellerston avenue, melaleuca, hamilton,4226, vic,19200327,8538395,<=50K
+782_b, jasmine, clarke,11, yampi place, thistjiedoo, noble pzrk,5608, vic,19760322,9579446,<=50K
+783_b, kai, mason,37, trimmer place, glenlee, warrane,4123, nsw,19651116,3359595,<=50K
+784_b, liam, graniger,63, magrath crescent, brindabella spe cialist centre, mclaren flat,2014, nsw,19690906,9030528,<=50K
+785_b, leon, clarke,25, upper green farm, antill xtreet, laverton,2115, sa,19540826,3910047,>50K
+786_b, thomas, humphreys,35, mayne street, gullcottzge, the entrance,2000, qld,19880516,3033895,<=50K
+787_b, abigail, paterson,2, begaflats, bowenoark, blakehurst,4151, tas,19021218,3213309,<=50K
+788_b, zane, dixon,11, bousteadc ircuit, baranbali, redbank plains,4740, nsw,19590328,3307725,<=50K
+789_b, hayden, everett,31, molesworth street, horse-shoe bend, boulder,6000, tas,19770116,1369074,>50K
+790_b, imogen, biship,10, badimara street, rockvale road, mount eliza,2660, qld,19460109,9681877,<=50K
+791_b, samuel, hobson,28, louis lodersstreet, grant patch, naremburn,4005, sa,19270607,5061265,>50K
+792_b, imogen, coffey,17, mclaren crescent, kooy ong, ormeau,2782, nsw,19250214,6944252,>50K
+793_b, kayl, stanley,378, namatjiar drive, campaspe, pullenvale,5097, tas,19480518,3422844,<=50K
+794_b, isabella, reid,42, sherbrooke street, armidale pria vse hospital, tallong,2088, nsw,19101002,2082772,<=50K
+795_b, charles, hassall,1, lansellc ircuit, maryldos, riverwood,3630, nsw,19650120,5882376,<=50K
+796_b, natassia, horslety,12, tanumbirini street, alabama, numeralla,4573, vic,19721029,9492580,>50K
+797_b, anan, reid,19, morant circuit, grammar dchool, south turramurra,2040, vic,19960111,2799521,>50K
+798_b, jarrod, manson,2, dalgleis close, caravn park, mypolonga,3182, qld,19160808,9103733,>50K
+799_b, tayla, iovino,15, seddon place, civic centre, millers point,2763, nsw,19560823,9282697,>50K
+800_b, patrick, green,88, kelsall place, killarney east, rose bay,5108, nsw,19151112,5843206,>50K
+801_b, emmerson, maziakowski,58, irvine street, loughmore, nunawading,4211, qld,19400316,1807259,>50K
+802_b, camerln, dolejs,17, medley street, merrangbauer park, prospect,4812, sa,19250828,8585871,<=50K
+803_b, tynan, ryan,17, darwinia terrace, swinton, acacia ridge,4241, nsw,19510905,4210506,<=50K
+804_b, benjamin, goldsworthy,2, forbes treet, wdgee otreet, tarragindi,2606, vic,19540317,6447881,<=50K
+805_b, ne, donaldson,12, callabonn a street, linton, port lincoln,3213, vic,19170225,3467256,<=50K
+806_b, beloma, griersn,27, priddle street, green lagoon, christies beach,3152, vic,19310623,5872915,>50K
+807_b, harrison, stanley,69, macaliste crescent, applewoods, thornlie,5063, qld,19871206,4461675,<=50K
+808_b, joshua, golden,22, mcintoshusreet, ra23 f102, noble park,2753, sa,19940329,1150948,>50K
+809_b, stephanie, george,50, mccullocn street, ardrossan, berwick,2226, qld,19691102,3352838,<=50K
+810_b, joshua, george,24, rose scottcircuit, ponderossa, goonellbaah,2464, nsw,19250202,9620943,<=50K
+811_b, matisse, kromwyk,14, charterisville avenue, phillip lodge, toowoomba,2880, nsw,19190122,1739567,>50K
+812_b, alicia, clasrke,72, rowethorpe, fitchett street, whaaln,2643, nsw,19811201,4620958,<=50K
+813_b, nicholas, jehvey,59, bogan place, hoepview, bundaberg,2404, nsw,19921231,4030459,>50K
+814_b, harley, coleman,4, pridhamstreet, merrydsle, broome,2528, wa,19670119,3924027,<=50K
+815_b, emiily, scheel,12, cuscaden cfrescent, hopeview, jamboree neights,4816, vic,19521013,4479715,<=50K
+816_b, oliver, von host,75, pattinson crescent, school h ouse, hoppers crossing,3311, vic,19080425,8000122,<=50K
+817_b, jaiden, ferris,2, pandanus street, merri bjaks, coffs harbour,4067, vic,19571204,1859065,<=50K
+818_b, corey, godfrey,74, sturt avenue, cox cour t hostel, rapid creek,3976, wa,19880613,7156436,>50K
+819_b, aliza, lloydd-wight,42, port jackson circuit, grnnyjflt, brusbane,3078, qld,19800509,8844981,<=50K
+820_b, cameron, shepherd,91, mckinlay street, pindara medcial centre, bonnyrigg,2075, nsw,19690127,6756218,<=50K
+821_b, alessandra, eyles,14, loureiro street, rowethorpe, illabo,2014, nsw,19210630,7014176,<=50K
+822_b, michael, clarke,37, mcintyre street, sherwood, maryborough,3113, wa,19240223,1884618,<=50K
+823_b, jacob, siviour,12, dobbieplace, brentwood vlge, gundagai,2839, qld,19160602,6864430,<=50K
+824_b, jett, mendrin,27, ainsworth street, colooli village, bassenedan,3777, nsw,19050414,4009853,>50K
+825_b, irene, morriso n,16, maitlanrd tsreet, the mall, burleigh heads,4077, vic,19650804,9676251,<=50K
+826_b, jason, mcmul len,13, musgraves treet, black creek, ingham,2280, qld,19280901,4547198,>50K
+827_b, makayla, matthews,42, cullen street, st francis orom, oakleigh,3233, nsw,19061006,7914045,<=50K
+828_b, lachlan-john, spears,165, o'connor circuit, kondalilla, risdon park,6064, qld,19950105,2408582,<=50K
+829_b, finn, leslie,7, longmore crescent, the lodge, woodcroft,7250, qld,19670715,1685360,<=50K
+830_b, destynii, hope,24, villa 3, barungastreet, st peters,4061, nsw,19210430,6586290,>50K
+831_b, calbe, newberry,14, mackenziestreet, mountainview retirement vlge, emerald,2560, sa,19211203,1454125,<=50K
+832_b, jaimee, hanna,8, harkness street, belmor river, armidale,2062, nsw,19871116,5900887,<=50K
+833_b, caleb, roberts-yates,40, millpost close, bandera, cobar,3500, qld,19670914,5399448,>50K
+834_b, liley, reid,27, tyrrell circuit, bright view, port sorell,2578, sa,19680620,2026273,<=50K
+835_b, nicholas, kaukov,295, jervois street, dodonaea wing, wamberal,4077, qld,19070128,2145341,<=50K
+836_b, daniel, warusevitane,123, mccaughey street, lemnos, lismore,3023, vic,19990918,9753519,<=50K
+837_b, joshau, donkin,16, mather ustreet, glebe retirement villa, park holme,3002, nsw,19750509,4009940,>50K
+838_b, teahva, rawlings,21, charterisville avenue, moonby downs, toowoomba,4006, sa,19601115,9235491,<=50K
+839_b, tommy, gre ne,122, nanima road, port 44, lower temclestowe,6064, vic,19901006,6395843,<=50K
+840_b, william, everett,140, hall street, fernbank, bull creek,7184, tas,19921006,2805870,<=50K
+841_b, alexandra, berry,18, mckinle y circuit, arouni, tahmoor,2206, nsw,19120808,9418450,>50K
+842_b, jacobie, white,27, pitcaibr street, willowfield, sefton,2565, wa,19940831,6421870,>50K
+843_b, stephanie, tuckwell,6, weddin circuit, hillsidrfarm, scarborough,4125, sa,19920918,7564218,<=50K
+844_b, mitchell, whte,2, denovan circuit, brackenl eigh, mill park,6210, nsw,19031229,2276261,<=50K
+845_b, tiana, ryan,146, doyle terrace, danric lodge, totteham,3355, sa,19280723,9762204,<=50K
+846_b, charlei, browne,33, riversstreet, rowetohrpe, east hills,2539, sa,19360722,3866327,<=50K
+847_b, marinos, anton,44, geils court, mayflower retrmnt vlge, bridgewater,4066, vic,19510826,7146853,>50K
+848_b, taliah, buitendyk,19, emily bulcock crescent, palmwoo d court, flinders park,5109, sa,19950831,3139107,<=50K
+849_b, blake, brac ci,159, duffy street, hillcrestlodge, bacchus marsh,4510, nsw,19590213,9950906,<=50K
+850_b, tommy, morrison,28, mcnamara street, rowan lodge, north ryde,2083, nsw,19231010,8097782,<=50K
+851_b, brandon, freiman,27, tucanastreet, sunnyhills, tweed heads south,2500, nsw,19370325,5018665,>50K
+852_b, jessica, liddy,15, hyndes crescent, sec1, fairlight,4133, nsw,19620602,3547293,<=50K
+853_b, chloe, white,33, gadali crescent, rondyavoo, logankea,3069, vic,19331024,8293935,<=50K
+854_b, amaya, skirca,3, heagney ecscent, willow lodge, ross,3980, wa,19980122,3781022,<=50K
+855_b, amy, george,15, faithfull circuit, tynwall, cranbourne,5083, nsw,19180219,9555129,<=50K
+856_b, lily, collier,47, sargood street, amelia, port macquarie,3148, vic,19860413,6053604,>50K
+857_b, chloe, mason,2, beirne street, grandview, st albans,2035, nsw,19760319,1704704,>50K
+858_b, henry, dichiera,34, pomeroy street, towe rh ill, orange,5690, nsw,19000910,7446554,<=50K
+859_b, zali, clutterbuck,13, twelve treescrescent, colbes, taringa,4718, vic,19821023,1538475,<=50K
+860_b, matthews, benjamin,5, namatjira drive, buena vista, preston,5290, vic,19531201,3174571,<=50K
+861_b, elle, royle,40, maribyrnong avenue, stapletonj station, port lincoln,4220, nsw,19430114,8517129,<=50K
+862_b, michael, leslie,2, kirwanciircuit, blenmorje, bangor,1350, qld,19350423,7283323,<=50K
+863_b, jade, clarke,63, fred william s crescent, plaiview, kitchener,3127, nsw,19350407,4177666,<=50K
+864_b, nichoqlas, hope,39, rossarden street, oakdale, clayt ln,2037, qld,19080513,1209261,<=50K
+865_b, stephanie, braithwaite,86, chisholmstreet, bundong, toowoomba,2516, nt,19750104,4226794,>50K
+866_b, aidyn, morrison,1215, bertram street, tievrton, woy woy,4021, nsw,19160319,8015513,>50K
+867_b, jarod, lusted,22, prescotttstreet, girrahween himestead, burleigh waters,4502, nsw,19321125,6896793,<=50K
+868_b, madeline, jeffries,22, saywell place, little nest, charlestown,6430, nsw,19810222,3776945,>50K
+869_b, erin, jaridne,36, sainsbury street, alice downs, windsor,4573, nsw,19180805,2211171,<=50K
+870_b, lewis, westbrook,14, hutchison crescent, ohio staiton, seaforth,4128, vic,19081217,3566029,<=50K
+871_b, shakirah, van der steege,51, newdegate street, airforce memorial estate, darlinton,3630, tas,19580903,2487904,>50K
+872_b, ella, wilkins,468, hodgson crescent, currandina, ellenbrok,2615, sa,19010903,2654739,<=50K
+873_b, max, rei,6, jamieson crescent, locn 2192, unanderra,2031, qld,19980521,3469031,<=50K
+874_b, zac, green,44, bingley crescent, green famf mates, karratha,5087, vic,19260814,7910394,>50K
+875_b, jade, markakis,123, la perouse street, brentwood vlge, ascot,3121, qld,19020516,8659304,>50K
+876_b, jenna, swiggs,24, calder crescent, villa 3, campbelltown,5690, msw,19460420,1866867,<=50K
+877_b, max, britten,2, schlam place, gow rie, dungog,5075, wa,19441213,9021437,<=50K
+878_b, thomas, egan,9, theiron farm, elvire lace, parkside,3042, nsw,19380131,6564635,>50K
+879_b, hand, zarlia,2, quiros street, naranda, arana ihlls,2250, st,19101225,1904897,<=50K
+880_b, mason, leo n,545, hawkesbury crescent, doubtful ck, ballina,3138, qld,19541005,1583491,<=50K
+881_b, ebony, van heds,34, bellinger c ircuit, moargo, robina,2411, nsw,19040204,2780788,>50K
+882_b, alaiyah, stephenson,61, captain cook crescent, hd tiparra sec 333, nhill,3204, act,19050712,2912030,<=50K
+883_b, james, worsleyw,1, pike p lace, melaleuca, broadmeadows,4818, nt,19651211,6697804,<=50K
+884_b, heather, campbll,15, maitland street, southport retirement village, yinnar,4740, qld,19130206,4429120,>50K
+885_b, tayya, vandelaar,122, boehm close, florina park, port macquarie,2077, vic,19210928,9424556,<=50K
+886_b, jamie, wardl,1, shakespeare crescent, youralla, harris park,2720, nsw,19990726,4283536,<=50K
+887_b, aiden, roche,48, eppalock street, elmwodo, port lincoln,4573, wa,19400329,7028007,<=50K
+888_b, reegan, noble,4, kauper street, poplars, carlinxford,7173, vic,19501211,7621584,<=50K
+889_b, br inlry, ho,6, vickers crescent, parks cottage, greenwith,2166, sa,19311119,9420562,>50K
+890_b, giorgia, smallacombe,10, dundas court, somerton aprk, glengarry,4106, sa,19990313,6652739,>50K
+891_b, brooklyn, whitwg,362, o'loghlenstreet, mirrimbah, toowoomba south,2259, wa,19410904,7203795,<=50K
+892_b, malakai, palethorpe,23, boonal, marsden street, gaven,2340, nsw,19031029,5176770,<=50K
+893_b, dreyer, flynn,148, haydenclose, hawkesbury natural health acupuncture ce, sanctuary point,3669, vic,19010221,7104329,<=50K
+894_b, gabritel, green,18, alroy circuit, birrabilla, surry hills,4585, nsw,19901018,6193075,>50K
+895_b, kyle, straczek,1, hardwick crescent, the willows, blacktown,2100, vic,19160506,4656343,>50K
+896_b, timothy, kinter,29, hawker street, argyle village, quilpie,2598, vic,19190926,7137952,<=50K
+897_b, juke, tu,5, holland street, manrdesa, ventnor,5039, qld,19571024,3333385,>50K
+898_b, zachary, lowe,10, knox street, myliton, ulversyone,5604, wa,19690408,9556948,<=50K
+899_b, courtney, wellerv,35, florence taylor street, flt 61, vermont,4352, vic,19910120,7615358,<=50K
+900_b, timothy, modystacuh,32, julia flynn avenue, rcg cnetre, charlestown,4655, vic,19671125,2430632,>50K
+901_b, jacob, badalsssi,7, patey street, summer hill, surfers paradise,4035, nsw,19171217,7615199,<=50K
+902_b, tara, pratap,15, wattle street, cantlay farm, aspley,2527, wa,19301128,2834693,<=50K
+903_b, georgia, coffey,41, disneycourt, siesta caravn park, coonabarabran,2428, act,19960110,9287951,<=50K
+904_b, damien, garnett,9, narrabundah lane, laur e, penola,6168, nsw,19900710,2711549,>50K
+905_b, barnaby, godfrey,18, hopegood place, ostesr, brighton,5086, nsw,19461029,9137216,<=50K
+906_b, harrison, schuster,21, boldrewood street, brambletye vinyard, portmacquarie,4069, vic,19851117,4249919,<=50K
+907_b, antonio, hagwe,34, grigsnplace, warrawong, tinamba,3636, nsw,19330331,8499345,>50K
+908_b, slack-smith, katelyn,5, mugga way, bundong, marrara,3505, nsw,19990408,3255344,<=50K
+909_b, jessica, mac nell,13, neeld place, bessy sue, sheffield,3124, atc,19160213,7779746,<=50K
+910_b, tyler, siviour,1, ina gregor circuit, oivi, blakeview,3630, qld,19030131,6849934,<=50K
+911_b, emma, thorpe,60, sharwood crescent, wyuna, warriewood,4510, vic,19211218,3966976,<=50K
+912_b, alessia, krajnc,30, fergusson crescent, kalga, shorewell park,5044, nsw,19421102,4012486,<=50K
+913_b, kiara, drechslerj,2, shackleton circuit, glenvi ew, bulimba,4064, tas,19590816,5052016,>50K
+914_b, william, minnicn,10, tunney crescent, berkeley vlge, redbank plains,2835, qld,19530313,5016829,<=50K
+915_b, chevodnne, wilkins,575, wilga plce, theslpiway, kellyville,4215, sa,19721204,2353183,<=50K
+916_b, danile, green,1, hartog street, retirement village, bonnyrigg,2749, vic,19900926,9765781,>50K
+917_b, madeleine, wang,129, goodsir place, may ctotage, devonport,4030, vic,19840516,6195273,>50K
+918_b, william, tomney,25, dulverton street, oma ru, gilmore,5043, nsw,19280525,2940053,<=50K
+919_b, nicholas, hoyland,45, shirlow place, jewells medical centre, wantirna,5049, vic,19200610,4055212,<=50K
+920_b, aurora, gigney,64, o'rourke street, timdoolin, shellharbour,4059, nsw,19760409,7169291,>50K
+921_b, marlee, boss,16, slessor crescent, north a rm, ballsrat,2134, sa,19940504,2634944,<=50K
+922_b, ethan, mcdermid,27, buggy crescent, rsde 817 wallace, eden hills,3287, nsw,19921128,3857378,<=50K
+923_b, anthony, burkevics,8, dryandra street, alexandraracecourse, balla rat,3048, vic,19180927,2312985,<=50K
+924_b, eliza, campbell,113, dines place, villa 74 village glen, figtree,3550, nsw,19651205,4509107,<=50K
+925_b, talena, white,4, tyson street, rocklea, eagldahwk,3188, sa,19580101,7287410,<=50K
+926_b, amber, nguyen,293, hartungc rescent, grandview, aubura,2209, nsw,19780324,1331391,<=50K
+927_b, vendula, forgie-sendt,11, mccabe crescent, parry house, allingham,2484, nsw,19650317,1609178,<=50K
+928_b, nicholas, jolly,181, tullaroop street, federation cove, old toongabbie,2606, wa,19660414,1461086,<=50K
+929_b, michadla, rickett,13, sorlie place, terra nostra, robina,5157, nsw,19920309,4084583,<=50K
+930_b, timothy, soulemezzis,18, allambee street, brentwood vlge, balaklava,2590, vic,19010923,1004889,<=50K
+931_b, madeline, liteploj,28, mckayg arden, kangaroo grnd, creswick,2871, nsw,19640410,9933895,<=50K
+932_b, alexander, georg e,45, legge street, lashbrooke, mount low,3163, qld,19150920,5235447,<=50K
+933_b, bailey, gree n,76, jackie howe crescent, glengara billage, murgon,3340, nsw,19960416,1468056,<=50K
+934_b, jacqueline, ferris,107, kriewaldt circuit, dunmoven, mirraooka,3195, vic,19251030,7808140,<=50K
+935_b, drew, bihshop,6, gask pqlce, balala station, heywood,3058, nsw,19000402,1551804,>50K
+936_b, diamond, branston,124, longstaff street, two sticks estate, grenfell,3108, nsw,19720728,2121177,>50K
+937_b, jordan, godfrey,79, bettington circuit, raycrfot, merricks north,2229, nsw,19380817,7501347,<=50K
+938_b, emiily, rundyle,112, tarago place, fiveways, brookvale,2122, nsw,19461226,2412960,>50K
+939_b, kayl, elrick,95, jardine street, tudor, bronte,2610, vic,19250202,8616786,<=50K
+940_b, ruby, garnsey,317, harcourt street, navan park, north narrabeen,4163, nsw,19731030,5892459,>50K
+941_b, grace, carbne,37, longstaff street, gleneira, seymour,6233, vid,19380212,4562890,<=50K
+942_b, solomon, morrison,67, jarrahdale street, yalda ra, empire bay,2907, qld,19400406,5013206,>50K
+943_b, jack, white,35, fiveasha street, meadowvale illage, noble prk,2759, qld,19900716,7111367,>50K
+944_b, lachlan, clarke,19, bunbury street, kildurham, nhill,3850, nsw,19180501,2371774,<=50K
+945_b, harvey, dunstone,23, merrett garden, guest hse, macedon,2097, nsw,19150106,9370500,<=50K
+946_b, fraser, miles,8, bungonias treet, hartley st school, kardinya,3728, vic,19390405,8206238,<=50K
+947_b, alissa, ryan,22, boobialla street, urimbira, seaforth,6018, nsw,19990829,1669592,<=50K
+948_b, joel, cerins,24, majura lane, bungarra, matraville,4146, wa,19860411,6230406,<=50K
+949_b, hayden, kluske,25, kanooka street, grenoble, bonnyrigg,4740, nsw,19111028,9665354,<=50K
+950_b, makenzi, weaver,10, pandanus street, the homestead, springfield,2745, vic,19370123,3748458,<=50K
+951_b, william, mason,14, bindaga street, unt 2, yackandandah,3150, nsw,19780603,3588709,<=50K
+952_b, emiily, greedn,47, craig lace, rosemeade, ashfield,3095, nsw,19580116,4427542,<=50K
+953_b, cameron, shephrd,16, cliftcrescent, nurock, northgate,2340, qld,19620826,1930383,>50K
+954_b, harrison, du,22, cooks treet, green abnk, adelong,5244, wa,19320522,6650303,<=50K
+955_b, emiily, dent,27, gungurra crescent, redlands, whyalla,3775, nsw,19960112,9836985,<=50K
+956_b, camefon, prideaux,50, evenstar, oakes sreet, condon,6164, nsw,19990615,3537526,<=50K
+957_b, claudia, bowerman,66, fidge street, ashgrov e farms, salisbury,3328, vic,19060517,3167418,<=50K
+958_b, jackson, herbert,15, gooreen street, ripple brok station, highett,4870, vic,19170311,3155721,<=50K
+959_b, alexandra, finlay,3, erldunda circuit, neaavie, cooroy,2147, nsw,19600723,4039238,<=50K
+960_b, bailley, fair,27, laceyp lace, sunny-bfae, auburn,3757, wa,19730509,9201283,<=50K
+961_b, arabella, holyoak,49, hughes crescent, b, malvern,4405, wa,19280311,1284712,>50K
+962_b, reid, william,12, tatchell street, st george spark, hoppers crossing,4814, nsw,19750418,1498408,<=50K
+963_b, georgia, weidengbach,4, marou place, blueberry, innaloo,4068, vic,19280919,5368290,<=50K
+964_b, ameljia, lowry,54, jandamarra street, ellwood, kinglake east,4280, qld,19231009,2439451,<=50K
+965_b, samantha, ryan,16, forsythe street, murrawarra, winthrop,4800, nsw,19100120,2049414,<=50K
+966_b, harriet, horsley,12, woinarski place, white lodge, mulgrave east,3280, wa,19710926,4215402,<=50K
+967_b, nikki, jaruic,13, renmark street, parishlorne, chester hill,2106, nsw,19520401,9272910,<=50K
+968_b, taylah, reid,25, albermarlze place, cypress garden, pennant hills,2210, nsw,19571029,7596151,<=50K
+969_b, xantne, maynard,2, blackman crescent, rosab laenca, cooran,2196, qld,19110520,6070195,<=50K
+970_b, casey, fitzpatrick,34, hugh mckay crescent, glass house, hamilton,4178, nsw,19320411,3603835,>50K
+971_b, isac, sherriff,6, britten-jnoes drive, wyuna, greendale,3976, tas,19330719,7421428,<=50K
+972_b, keaton, webb,2, mckinleycircuit, solitaire, lemon tree passage,3943, nsw,19850328,6634675,<=50K
+973_b, luke, beattie,16, blinkhorn place, lucerneoark, corrimal,4118, act,19211118,5586410,<=50K
+974_b, nathan, green,10, franc p lace, tara p ark, marsden,3337, qld,19060131,8615544,<=50K
+975_b, zachary, bradshaw,106, totterdell street, barossa village, colo hvale,3444, qld,19151219,6773922,<=50K
+976_b, takeisha, white,6, chuculba crescent, melale uca, bundaberg,6062, vic,19350824,1092846,<=50K
+977_b, jory, musolino,26, steinfeld court, table mountain, moree,3134, wa,19381019,4887622,<=50K
+978_b, joshua, cupo,16, greglea village, gabriel place, lobethal,5126, qld,19670425,4178304,<=50K
+979_b, benjamin, lette,34, condami nestreet, arcadia, silverdale,4670, nsw,19600502,7897136,<=50K
+980_b, elisha, pernini,32, lorimer place, robertson barracks, northmead,5167, sa,19710527,3583022,<=50K
+981_b, matthew, duikc,20, ebelin c ourt, sec 1, manly vale,4107, qld,19290219,1480566,<=50K
+982_b, joshua, dowdney,14, wynn street, tathra, bilpiw,2529, vic,19091220,2519977,>50K
+983_b, ctercteko, isabela,15, sturta venue, avocado acres, planland,7216, vic,19810626,7979662,<=50K
+984_b, grace, weidenbach,57, kemsleyplace, medical practice bendigo, klemzig,4127, nsw,19340907,9063253,>50K
+985_b, liam, dabinet,32, boldrewood street, statue bay, mulgrave east,3121, qld,19851223,4783172,<=50K
+986_b, madison, seddon,9, wirilda street, killarney, rosebery,4109, vic,19770403,7497295,<=50K
+987_b, keira, zawistowski,18, symers street, irrigati on farm, kirribilli,7112, vic,19781026,7508567,>50K
+988_b, asha, chete r,8, streeton drive, rosehill, scarboorugh,5051, qld,19440808,7992356,<=50K
+989_b, zachary, dixon,18, couchmancrescent, yarrimbah, wantira,2132, vic,19400312,6747606,>50K
+990_b, jacob, watts-endresz,6, maranoastreet, rubern cottage, cowra,2046, qld,19400708,4839060,<=50K
+991_b, bruhn, thomas,21, namadgi circuit, marinre views, slacks cerek,4670, wa,19540821,1618939,<=50K
+992_b, ryna, chloe,53, yarra s treet, balmoral garden, tahmoro,2905, vic,19450712,1987289,<=50K
+993_b, samantha, bellamy,123, hawkesbury crescent, bri stin, pallaar,2756, nsw,19091019,8779096,<=50K
+994_b, samuel, matthews,42, ferdinand street, eaglerock, elwood,2049, nsw,19140402,4591377,>50K
+995_b, gabriella, pilavci,35, perry drive, medical centre, mooroolbark,2460, vic,19160117,2554284,<=50K
+996_b, laura, mizon,52, mugga lane, jarrah rd shopping town, penguin,2038, nsw,19510096,4320123,<=50K
+997_b, kira, wimmer,4, sturdee crescent, ark hall, tanjil south,3173, sa,19410628,4604296,<=50K
+998_b, zali, white,6, mildura street, r s l retrmnt vlge, elizabeth vale,3034, nsw,19402704,5617219,<=50K
+999_b, alexandra, giordano,32, crozier circuit, marsden forest, samflrd,4680, vic,19341104,7610250,<=50K
