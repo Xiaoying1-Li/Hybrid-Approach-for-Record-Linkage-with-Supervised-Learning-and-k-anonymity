@@ -33,13 +33,11 @@ def load_data(folder_path):
 
     combined_df.to_csv('../datasets/combined_data.csv', index=False)
 
-    print("文件大小: {:.2f} bytes".format(file_size))
-    print("数据总数: {}".format(num_rows))
-    print("缺失值数量: {}".format(missing_values))
-    print("缺失值占比: {:.2f}%".format(missing_values_percentage))
-    print("含有空白值的行数: {}".format(rows_with_blank_values))
-    print("含有空白值的行数占比: {:.2f}%".format(rows_with_blank_values_percentage))
-    print("\n每列的数据类型:")
+    print("file size: {:.2f} bytes".format(file_size))
+    print("Total number of data: {}".format(num_rows))
+    print("Number of missing values: {}".format(missing_values))
+    print("Percentage of missing values: {:.2f}%".format(missing_values_percentage))
+    print("\nData type of each column:")
     print(column_types)
 
 
