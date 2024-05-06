@@ -67,7 +67,7 @@ class Process(object):
         for attribute in attribute_index:
             attribute_list = [data[attribute] for data in dataset]
             attribute_list = list(set(attribute_list))
-            attribute_list.sort()  # todo 这里是否考虑对数值进行int转换之后，再排序
+            attribute_list.sort()
 
             length.append(len(attribute_list))
             result.append(list(attribute_list))
