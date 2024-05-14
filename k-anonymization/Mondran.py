@@ -77,6 +77,7 @@ class Process(object):
 
         attribute = attribute_index[max_length_index]
         attribute_value_list = result[max_length_index]
+
         return attribute_value_list, attribute
 
     def get_frequency(self, dataset, attribute_index, attribute_value):
@@ -92,7 +93,9 @@ class Process(object):
             this_columns = [item[attribute_index] for item in dataset]
             result.append(this_columns.count(attribute_value[attr]))
 
+
         return result
+
 
     def get_median(self, frequency_list, attribute_value):
         """
@@ -109,6 +112,7 @@ class Process(object):
             if 0 >= media:
                 default_val = i
                 return attribute_value[default_val]
+
         return attribute_value[default_val]
 
     def mondrian_process(self, dataset, attribute_index, k):
@@ -229,4 +233,5 @@ if __name__ == '__main__':
     os.makedirs(output_dir, exist_ok=True)
     main = Process(input_file=input_file, attribute_index=quality_index, k=k, output_file=output_file)
     main.main()
+
 
